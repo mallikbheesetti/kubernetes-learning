@@ -5,15 +5,15 @@
 **Goal:** Go under the hood of CNI, kube-proxy and DNS.
 
 ## Topics
-- [ ] CNI fundamentals: plugin model, pod IP allocation, VXLAN vs host-gw — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
-- [ ] Deploy a CNI (Calico or Cilium) on your kind cluster — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
-- [ ] kube-proxy modes (iptables/ipvs); Service implementation detail — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
-- [ ] DNS deep dive: CoreDNS config, custom records, ndots/resolv.conf — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
+- [ ] CNI fundamentals: plugin model, pod IP allocation, VXLAN vs host-gw — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking) — [Docs](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+- [ ] Deploy a CNI (Calico or Cilium) on your kind cluster — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking) — [Docs](https://docs.tigera.io/calico/latest)
+- [ ] kube-proxy modes (iptables/ipvs); Service implementation detail — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking) — [Docs](https://kubernetes.io/docs/reference/networking/virtual-ips)
+- [ ] DNS deep dive: CoreDNS config, custom records, ndots/resolv.conf — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking) — [Docs](https://coredns.io/manual/toc/)
 
 ## Deliverable
 - labs/networking/ + packet-flow notes
 
 ## Exit check
-- [ ] Trace a packet Pod-to-Pod and Pod-to-Service and document it
+- [ ] Trace a packet Pod-to-Pod and Pod-to-Service and document it — [Docs](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

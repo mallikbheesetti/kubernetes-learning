@@ -1,0 +1,870 @@
+[
+  {
+    "m": "clusterdeployment|declarative provisioning: hive|\\bhive\\b",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/clusters"
+  },
+  {
+    "m": "submariner|globalnet",
+    "u": "https://submariner.io/"
+  },
+  {
+    "m": "otel collector|receivers/processors/exporters",
+    "u": "https://opentelemetry.io/docs/collector/"
+  },
+  {
+    "m": "kube-prometheus-stack",
+    "u": "https://prometheus-operator.dev/"
+  },
+  {
+    "m": "index patterns|saved searches|kibana dashboard",
+    "u": "https://www.elastic.co/guide/en/kibana/current/"
+  },
+  {
+    "m": "roles, collections, galaxy|dynamic inventory",
+    "u": "https://galaxy.ansible.com/"
+  },
+  {
+    "m": "state operations",
+    "u": "https://developer.hashicorp.com/terraform/language/state/import"
+  },
+  {
+    "m": "oc adm|cluster-operator degradation",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index"
+  },
+  {
+    "m": "sso integration|projects, rbac, sso",
+    "u": "https://argo-cd.readthedocs.io/en/stable/"
+  },
+  {
+    "m": "build dashboards|use/red methods",
+    "u": "https://grafana.com/docs/grafana/latest/dashboards/"
+  },
+  {
+    "m": "log pipelines",
+    "u": "https://grafana.com/docs/loki/latest/query/"
+  },
+  {
+    "m": "sync policies|auto-sync",
+    "u": "https://argo-cd.readthedocs.io/en/stable/"
+  },
+  {
+    "m": "workflow syntax: jobs|caching, artifacts|artifacts, secrets",
+    "u": "https://docs.github.com/en/actions"
+  },
+  {
+    "m": "oidc to cloud|no long-lived keys",
+    "u": "https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-cloud-providers"
+  },
+  {
+    "m": "\\bvault\\b|vault for secrets",
+    "u": "https://developer.hashicorp.com/vault/docs"
+  },
+  {
+    "m": "sensitive values|\\.tfvars",
+    "u": "https://developer.hashicorp.com/terraform/language/values/variables"
+  },
+  {
+    "m": "openshift gitops",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/gitops"
+  },
+  {
+    "m": "openshift pipelines",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/pipelines"
+  },
+  {
+    "m": "openshift logging|clusterlogging|lokistack",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/logging/index"
+  },
+  {
+    "m": "openshift virtualization",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/virtualization/index"
+  },
+  {
+    "m": "security context constraints|scc",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/authentication_and_authorization/index"
+  },
+  {
+    "m": "compliance operator",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/security_and_compliance/compliance-operator"
+  },
+  {
+    "m": "user-workload monitoring|built-in monitoring|openshift.*monitoring",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/monitoring/index"
+  },
+  {
+    "m": "machine config operator|machineconfig",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index"
+  },
+  {
+    "m": "machineset|machine management|dedicated node pools",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/machine_management/index"
+  },
+  {
+    "m": "cvo|cluster version operator|clusteroperators?",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index"
+  },
+  {
+    "m": "imagestream|buildconfig|s2i|source-to-image|oc new-app|openshift templates",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/building_applications"
+  },
+  {
+    "m": "assisted installer|zero-touch|ztp",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/installing_on-premise_with_assisted_installer"
+  },
+  {
+    "m": "single node openshift|\\bsno\\b",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/installing_on_a_single_node"
+  },
+  {
+    "m": "openshift local|\\bcrc\\b|code-ready",
+    "u": "https://developers.redhat.com/products/openshift-local/"
+  },
+  {
+    "m": "hyper?shift|hosted control plane",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/hosted_control_planes/index"
+  },
+  {
+    "m": "rosa|openshift service on aws",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_openshift_service_on_aws/4"
+  },
+  {
+    "m": "\\baro\\b|azure red hat openshift",
+    "u": "https://learn.microsoft.com/en-us/azure/openshift/"
+  },
+  {
+    "m": "odf|openshift data foundation",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/storage/index"
+  },
+  {
+    "m": "disconnected|air-gapped|mirror.*registr",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/disconnected_environments"
+  },
+  {
+    "m": "ovn-kubernetes|ovn kubernetes|routes vs ingress|default ingresscontroller|oc expose|oc create route",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/networking_overview"
+  },
+  {
+    "m": "rhacs|advanced cluster security",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_security_for_kubernetes/4.6"
+  },
+  {
+    "m": "rhacm observability|multicluster dashboards",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/observability"
+  },
+  {
+    "m": "multicluster app delivery",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/applications"
+  },
+  {
+    "m": "clusterpermission|multiclusterroleassignment|fleet rbac|search add-on",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/secure_clusters"
+  },
+  {
+    "m": "global hub",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/multicluster_global_hub"
+  },
+  {
+    "m": "policy generator|operatorpolicy|policy framework|bind policies to clusters",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/governance"
+  },
+  {
+    "m": "managedclusterset|cluster pools?|hibernat",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/clusters"
+  },
+  {
+    "m": "placementdecision|placement &",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/clusters"
+  },
+  {
+    "m": "clusterinstance via|gitops-driven cluster lifecycle",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/clusters"
+  },
+  {
+    "m": "install rhacm|multiclusterengine|multiclusterhub",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/install"
+  },
+  {
+    "m": "multicluster architecture|hub, managed clusters|klusterlet|multi cluster engine",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/about"
+  },
+  {
+    "m": "subscription|clusteroperator|operatorhub",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/operators/index"
+  },
+  {
+    "m": "openshift|ocp|online cluster",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18"
+  },
+  {
+    "m": "calico",
+    "u": "https://docs.tigera.io/calico/latest"
+  },
+  {
+    "m": "cilium",
+    "u": "https://docs.cilium.io/en/stable/"
+  },
+  {
+    "m": "install kubectl|shell completion|aliases",
+    "u": "https://kubernetes.io/docs/tasks/tools/"
+  },
+  {
+    "m": "\\bkind\\b",
+    "u": "https://kind.sigs.k8s.io/docs/"
+  },
+  {
+    "m": "k3d",
+    "u": "https://k3d.io/"
+  },
+  {
+    "m": "k9s",
+    "u": "https://k9scli.io/"
+  },
+  {
+    "m": "kubectl config|kubeconfig|auth can-i|impersonation|merging",
+    "u": "https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/"
+  },
+  {
+    "m": "kubectl apply|declarative vs imperative|dry-run|manifests with",
+    "u": "https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/"
+  },
+  {
+    "m": "control plane components|control-plane internals|kubelet, kube-proxy",
+    "u": "https://kubernetes.io/docs/concepts/overview/components/"
+  },
+  {
+    "m": "kube-proxy|iptables|ipvs",
+    "u": "https://kubernetes.io/docs/reference/networking/virtual-ips"
+  },
+  {
+    "m": "cluster networking model|pod-to-pod|cni fundamentals|cni plugin|cni, csi",
+    "u": "https://kubernetes.io/docs/concepts/cluster-administration/networking/"
+  },
+  {
+    "m": "coredns",
+    "u": "https://coredns.io/manual/toc/"
+  },
+  {
+    "m": "ndots|resolv.conf|dns/connectivity|troubleshoot dns|dns pod-service",
+    "u": "https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/"
+  },
+  {
+    "m": "networkpolic|namespace selectors",
+    "u": "https://kubernetes.io/docs/concepts/services-networking/network-policies/"
+  },
+  {
+    "m": "gateway api|gateway-api",
+    "u": "https://gateway-api.sigs.k8s.io/"
+  },
+  {
+    "m": "ingress controllers? vs|ingress controller|nginx ingress|ingress basics",
+    "u": "https://kubernetes.io/docs/concepts/services-networking/ingress/"
+  },
+  {
+    "m": "metallb",
+    "u": "https://metallb.universe.tf/"
+  },
+  {
+    "m": "istio",
+    "u": "https://istio.io/latest/docs/"
+  },
+  {
+    "m": "knative",
+    "u": "https://knative.dev/docs/"
+  },
+  {
+    "m": "cert-manager",
+    "u": "https://cert-manager.io/docs/"
+  },
+  {
+    "m": "certificates",
+    "u": "https://kubernetes.io/docs/tasks/tls/managing-tls-in-a-cluster/"
+  },
+  {
+    "m": "etcd:",
+    "u": "https://etcd.io/docs/"
+  },
+  {
+    "m": "etcd backup",
+    "u": "https://etcd.io/docs/"
+  },
+  {
+    "m": "audit logging|audit policy",
+    "u": "https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/"
+  },
+  {
+    "m": "service accounts?|serviceaccounts",
+    "u": "https://kubernetes.io/docs/concepts/security/service-accounts/"
+  },
+  {
+    "m": "\\brbac\\b|roles/bindings|abac",
+    "u": "https://kubernetes.io/docs/reference/access-authn-authz/rbac/"
+  },
+  {
+    "m": "oidc|irsa",
+    "u": "https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html"
+  },
+  {
+    "m": "pod security|pss|restricted pss|security context constraints",
+    "u": "https://kubernetes.io/docs/concepts/security/pod-security-standards/"
+  },
+  {
+    "m": "seccomp|apparmor|selinux|capabilit|read-only fs|securitycontext",
+    "u": "https://kubernetes.io/docs/concepts/security/"
+  },
+  {
+    "m": "configmaps?|config maps",
+    "u": "https://kubernetes.io/docs/concepts/configuration/configmap/"
+  },
+  {
+    "m": "secrets?|secret:",
+    "u": "https://kubernetes.io/docs/concepts/configuration/secret/"
+  },
+  {
+    "m": "pod lifecycle|init containers|sidecar|probes?",
+    "u": "https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/"
+  },
+  {
+    "m": "replicaset|rolling update|rollback from memory|deployment strategies|deployments, rolling",
+    "u": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"
+  },
+  {
+    "m": "daemonsets?",
+    "u": "https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/"
+  },
+  {
+    "m": "statefulset|headless services?",
+    "u": "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/"
+  },
+  {
+    "m": "jobs & cron|cronjob|parallel/completion",
+    "u": "https://kubernetes.io/docs/concepts/workloads/controllers/job/"
+  },
+  {
+    "m": "resource requests/limits|\\bqos\\b",
+    "u": "https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/"
+  },
+  {
+    "m": "\\bhpa\\b|horizontal pod",
+    "u": "https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/"
+  },
+  {
+    "m": "metrics-server",
+    "u": "https://github.com/kubernetes-sigs/metrics-server"
+  },
+  {
+    "m": "\\bvpa\\b|vertical pod",
+    "u": "https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler"
+  },
+  {
+    "m": "cluster autoscaler",
+    "u": "https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler"
+  },
+  {
+    "m": "keda",
+    "u": "https://keda.sh/docs/"
+  },
+  {
+    "m": "taint|toleration|node selector|affinity|anti-affinity|scheduling:",
+    "u": "https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/"
+  },
+  {
+    "m": "cordon|drain",
+    "u": "https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/"
+  },
+  {
+    "m": "static pods?|kubelet config|manual scheduling",
+    "u": "https://kubernetes.io/docs/concepts/overview/components/"
+  },
+  {
+    "m": "\\bcsi\\b|storageclass|storage classes|dynamic provisioning",
+    "u": "https://kubernetes.io/docs/concepts/storage/storage-classes/"
+  },
+  {
+    "m": "pv/pvc|persistent volume|pv backed|volumes:",
+    "u": "https://kubernetes.io/docs/concepts/storage/persistent-volumes/"
+  },
+  {
+    "m": "\\bcrd\\b|custom resource definition|custom resources",
+    "u": "https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/"
+  },
+  {
+    "m": "kubebuilder",
+    "u": "https://kubebuilder.io/"
+  },
+  {
+    "m": "operator sdk",
+    "u": "https://sdk.operatorframework.io/"
+  },
+  {
+    "m": "operator pattern|reconciliation loop|watch/reconcile|finalizers",
+    "u": "https://kubernetes.io/docs/concepts/extend-kubernetes/operator/"
+  },
+  {
+    "m": "kustomize",
+    "u": "https://kubectl.docs.kubernetes.io/references/kustomize/"
+  },
+  {
+    "m": "umbrella chart|subcharts|chart hooks|helm test|helm architecture|helm on openshift|\\bhelm\\b",
+    "u": "https://helm.sh/docs/"
+  },
+  {
+    "m": "external secrets|external-secrets",
+    "u": "https://external-secrets.io/latest/"
+  },
+  {
+    "m": "glasskube",
+    "u": "https://glasskube.dev/docs/"
+  },
+  {
+    "m": "vault",
+    "u": "https://developer.hashicorp.com/vault/docs"
+  },
+  {
+    "m": "terraform cloud|terraform cloud/enterprise",
+    "u": "https://developer.hashicorp.com/terraform/cloud-docs"
+  },
+  {
+    "m": "sentinel",
+    "u": "https://developer.hashicorp.com/terraform/cloud-docs/policy-enforcement/sentinel"
+  },
+  {
+    "m": "terragrunt",
+    "u": "https://terragrunt.gruntwork.io/docs/"
+  },
+  {
+    "m": "opentofu",
+    "u": "https://opentofu.org/docs/"
+  },
+  {
+    "m": "terratest",
+    "u": "https://terratest.gruntwork.io/"
+  },
+  {
+    "m": "tflint",
+    "u": "https://github.com/terraform-linters/tflint"
+  },
+  {
+    "m": "checkov",
+    "u": "https://www.checkov.io/"
+  },
+  {
+    "m": "tfsec",
+    "u": "https://aquasecurity.github.io/tfsec/v1.28.0/"
+  },
+  {
+    "m": "conftest",
+    "u": "https://www.conftest.dev/"
+  },
+  {
+    "m": "\\bopa\\b|open policy agent",
+    "u": "https://www.openpolicyagent.org/docs/latest/"
+  },
+  {
+    "m": "gatekeeper",
+    "u": "https://open-policy-agent.github.io/gatekeeper/website/docs/"
+  },
+  {
+    "m": "remote backends|state locking|dynamodb",
+    "u": "https://developer.hashicorp.com/terraform/language/settings/backends/s3"
+  },
+  {
+    "m": "state operations|import an existing resource",
+    "u": "https://developer.hashicorp.com/terraform/language/state/import"
+  },
+  {
+    "m": "aws provider|s3 \\+ iam|vpc module|vpc from scratch|basic aws example|eks and iam|aws example",
+    "u": "https://registry.terraform.io/providers/hashicorp/aws/latest/docs"
+  },
+  {
+    "m": "\\beks\\b|\\baws\\b",
+    "u": "https://docs.aws.amazon.com/eks/latest/userguide/"
+  },
+  {
+    "m": "\\bterraform\\b",
+    "u": "https://developer.hashicorp.com/terraform/docs"
+  },
+  {
+    "m": "crossplane",
+    "u": "https://docs.crossplane.io/"
+  },
+  {
+    "m": "vcluster|namespaces-as-a-service|namespaces as a service",
+    "u": "https://www.vcluster.com/docs/"
+  },
+  {
+    "m": "molecule",
+    "u": "https://ansible.readthedocs.io/projects/molecule/"
+  },
+  {
+    "m": "ansible-lint",
+    "u": "https://ansible.readthedocs.io/projects/lint/"
+  },
+  {
+    "m": "kubernetes.core",
+    "u": "https://docs.ansible.com/ansible/latest/collections/kubernetes/core/index.html"
+  },
+  {
+    "m": "galaxy",
+    "u": "https://galaxy.ansible.com/"
+  },
+  {
+    "m": "yamllint",
+    "u": "https://yamllint.readthedocs.io/"
+  },
+  {
+    "m": "jinja2",
+    "u": "https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_templating.html"
+  },
+  {
+    "m": "ansible",
+    "u": "https://docs.ansible.com/ansible/latest/"
+  },
+  {
+    "m": "reusable workflows|composite actions|actions workflow|workflow syntax|via actions|cicd.*actions",
+    "u": "https://docs.github.com/en/actions"
+  },
+  {
+    "m": "branch protection|codeowners|signed commits|github",
+    "u": "https://docs.github.com/en"
+  },
+  {
+    "m": "conventional commits",
+    "u": "https://www.conventionalcommits.org/"
+  },
+  {
+    "m": "trunk-based",
+    "u": "https://trunkbaseddevelopment.com/"
+  },
+  {
+    "m": "rebase|cherry-pick|reflog|bisect|worktrees|git recovery",
+    "u": "https://git-scm.com/doc"
+  },
+  {
+    "m": "jenkins",
+    "u": "https://www.jenkins.io/doc/"
+  },
+  {
+    "m": "spinnaker",
+    "u": "https://spinnaker.io/docs/"
+  },
+  {
+    "m": "argocd|argo cd|argo-cd|applicationsets|app-of-apps",
+    "u": "https://argo-cd.readthedocs.io/en/stable/"
+  },
+  {
+    "m": "argo rollouts",
+    "u": "https://argoproj.github.io/argo-rollouts/"
+  },
+  {
+    "m": "argo workflows",
+    "u": "https://argoproj.github.io/workflows/"
+  },
+  {
+    "m": "tekton",
+    "u": "https://tekton.dev/docs/"
+  },
+  {
+    "m": "gitops",
+    "u": "https://opengitops.dev/"
+  },
+  {
+    "m": "backstage|developer portal|scaffolder",
+    "u": "https://backstage.io/docs/"
+  },
+  {
+    "m": "promql",
+    "u": "https://prometheus.io/docs/prometheus/latest/querying/basics/"
+  },
+  {
+    "m": "recording rules|alerting rules",
+    "u": "https://prometheus.io/docs/prometheus/latest/configuration/recording_rules/"
+  },
+  {
+    "m": "alertmanager|alert fires",
+    "u": "https://prometheus.io/docs/alerting/latest/alertmanager/"
+  },
+  {
+    "m": "exporters|service discovery|kubernetes_sd_configs",
+    "u": "https://prometheus.io/docs/prometheus/latest/configuration/configuration/"
+  },
+  {
+    "m": "metrics types|counters?|histograms?|golden signals|use/red|instrument an app",
+    "u": "https://prometheus.io/docs/concepts/metric_types/"
+  },
+  {
+    "m": "thanos",
+    "u": "https://thanos.io/"
+  },
+  {
+    "m": "kube-prometheus|prometheus-operator|prometheus operator",
+    "u": "https://prometheus-operator.dev/"
+  },
+  {
+    "m": "grafana data|variables, transformations|dashboards,|dashboards \\+ datasources|grafana",
+    "u": "https://grafana.com/docs/grafana/latest/dashboards/"
+  },
+  {
+    "m": "provisioning as code|provisioning in git",
+    "u": "https://grafana.com/docs/grafana/latest/administration/provisioning/"
+  },
+  {
+    "m": "logql",
+    "u": "https://grafana.com/docs/loki/latest/query/"
+  },
+  {
+    "m": "promtail",
+    "u": "https://grafana.com/docs/loki/latest/clients/promtail/"
+  },
+  {
+    "m": "alloy",
+    "u": "https://grafana.com/docs/alloy/"
+  },
+  {
+    "m": "loki architecture|loki \\+ alloy|loki on k8s|deploy loki|metrics-from-logs|loki,|\\bloki\\b",
+    "u": "https://grafana.com/docs/loki/latest/"
+  },
+  {
+    "m": "fluent bit",
+    "u": "https://docs.fluentbit.io/"
+  },
+  {
+    "m": "fluentd",
+    "u": "https://docs.fluentd.org/"
+  },
+  {
+    "m": "elasticsearch|efk|index lifecycle|ilm",
+    "u": "https://www.elastic.co/guide/en/elasticsearch/reference/current/"
+  },
+  {
+    "m": "kibana",
+    "u": "https://www.elastic.co/guide/en/kibana/current/"
+  },
+  {
+    "m": "splunk|indexer|search head|deployment server|heavy forwarder",
+    "u": "https://docs.splunk.com/Documentation/Splunk/latest/"
+  },
+  {
+    "m": "dynatrace|activegate|oneagent",
+    "u": "https://docs.dynatrace.com/docs/discover-dynatrace"
+  },
+  {
+    "m": "\\botel\\b|opentelemetry|otlp",
+    "u": "https://opentelemetry.io/docs/"
+  },
+  {
+    "m": "tracing concepts|spans|context propagation|sampling",
+    "u": "https://opentelemetry.io/docs/concepts/signals/traces/"
+  },
+  {
+    "m": "jaeger",
+    "u": "https://www.jaegertracing.io/docs/"
+  },
+  {
+    "m": "tempo",
+    "u": "https://grafana.com/docs/tempo/latest/"
+  },
+  {
+    "m": "kyverno|validate, mutate|policy reporting|exceptions",
+    "u": "https://kyverno.io/docs/"
+  },
+  {
+    "m": "kube-bench|hardening flags|cis benchmark|cis scan",
+    "u": "https://github.com/aquasecurity/kube-bench"
+  },
+  {
+    "m": "falco|runtime detection",
+    "u": "https://falco.org/docs/"
+  },
+  {
+    "m": "trivy|image scanning",
+    "u": "https://aquasecurity.github.io/trivy/"
+  },
+  {
+    "m": "sbom",
+    "u": "https://cyclonedx.org/"
+  },
+  {
+    "m": "cosign|sigstore",
+    "u": "https://docs.sigstore.dev/"
+  },
+  {
+    "m": "signed images|admitted|supply chain",
+    "u": "https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/"
+  },
+  {
+    "m": "chaos mesh",
+    "u": "https://chaos-mesh.org/docs/"
+  },
+  {
+    "m": "litmus",
+    "u": "https://litmuschaos.github.io/litmus/"
+  },
+  {
+    "m": "velero|oadp|regional-dr\\n|backup & dr|backups, dr",
+    "u": "https://velero.io/docs/"
+  },
+  {
+    "m": "team topologies",
+    "u": "https://teamtopologies.com/key-concepts"
+  },
+  {
+    "m": "\\bdora\\b",
+    "u": "https://dora.dev/"
+  },
+  {
+    "m": "finops",
+    "u": "https://www.finops.org/"
+  },
+  {
+    "m": "\\badrs?\\b|architecture decision",
+    "u": "https://adr.github.io/"
+  },
+  {
+    "m": "sli/slo|error budget|burn-rate|\\bslo\\b",
+    "u": "https://sre.google/workbook/"
+  },
+  {
+    "m": "postmortem|incident management|on-call",
+    "u": "https://sre.google/workbook/"
+  },
+  {
+    "m": "\\bsre\\b|site reliability|golden",
+    "u": "https://sre.google/sre-book/monitoring-distributed-systems/"
+  },
+  {
+    "m": "kubeadm upgrade|cluster upgrade concepts",
+    "u": "https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/"
+  },
+  {
+    "m": "clusterip|nodeport|loadbalancer|services:|service + ingress|expose an app via service",
+    "u": "https://kubernetes.io/docs/concepts/services-networking/service/"
+  },
+  {
+    "m": "troubleshooting: describe|logs, exec|imagepull|crashloop|troubleshooting toolkit",
+    "u": "https://kubernetes.io/docs/tasks/debug/debug-application/"
+  },
+  {
+    "m": "break a deployment|deployment 5 ways",
+    "u": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"
+  },
+  {
+    "m": "create a chart|chart:|.helmignore|named templates|helpers.tpl|working chart|--atomic|upgrade/rollback semantics",
+    "u": "https://helm.sh/docs/"
+  },
+  {
+    "m": "kustomization|patches|transformers|generators|overlays",
+    "u": "https://kubectl.docs.kubernetes.io/references/kustomize/"
+  },
+  {
+    "m": "package.*operator|deploy the operator|operator reconciles",
+    "u": "https://sdk.operatorframework.io/"
+  },
+  {
+    "m": "scales automatically",
+    "u": "https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/"
+  },
+  {
+    "m": "ghcr|push to ghcr|container image.*push",
+    "u": "https://docs.github.com/en/packages"
+  },
+  {
+    "m": "sync waves|health checks|drift detection|propagates across",
+    "u": "https://argo-cd.readthedocs.io/en/stable/"
+  },
+  {
+    "m": "shared libraries|multibranch|declarative pipelines|managed delivery|plugins",
+    "u": "https://www.jenkins.io/doc/"
+  },
+  {
+    "m": "feature flags|traffic shifting|canary|automated rollback|metrics failure",
+    "u": "https://argoproj.github.io/argo-rollouts/"
+  },
+  {
+    "m": "workspaces vs|directory-per-env",
+    "u": "https://developer.hashicorp.com/terraform/language/state/workspaces"
+  },
+  {
+    "m": "module structure|inputs/outputs|versioning; registry",
+    "u": "https://developer.hashicorp.com/terraform/language/modules"
+  },
+  {
+    "m": "\\bhcl\\b|init/plan/apply|dependency graph|for_each|count vs",
+    "u": "https://developer.hashicorp.com/terraform/docs"
+  },
+  {
+    "m": "connect kubectl",
+    "u": "https://kubernetes.io/docs/reference/kubectl/"
+  },
+  {
+    "m": "prometheus architecture|prometheus scrapes|\\bprometheus\\b",
+    "u": "https://prometheus.io/docs/"
+  },
+  {
+    "m": "log-based alert|object storage back",
+    "u": "https://grafana.com/docs/loki/latest/"
+  },
+  {
+    "m": "hot/warm/cold|replication factors|licensing|deployment apps|cluster manager",
+    "u": "https://docs.splunk.com/Documentation/Splunk/latest/"
+  },
+  {
+    "m": "entities/tags|alerting profiles",
+    "u": "https://docs.dynatrace.com/docs/discover-dynatrace"
+  },
+  {
+    "m": "resiliency target",
+    "u": "https://chaos-mesh.org/docs/"
+  },
+  {
+    "m": "\\bguardrails\\b",
+    "u": "https://kyverno.io/docs/"
+  },
+  {
+    "m": "cis-style",
+    "u": "https://github.com/aquasecurity/kube-bench"
+  },
+  {
+    "m": "dryrun|violations.*polic",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/governance"
+  },
+  {
+    "m": "release channels|\\beus\\b|clusterversion|upgrade control",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index"
+  },
+  {
+    "m": "under rhacm|\\brhacm\\b|one hub to thousands|right-sizing|git-declared manifest|fleet dashboard|dr drill",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16"
+  },
+  {
+    "m": "day-1 tour|console.* day-1",
+    "u": "https://docs.redhat.com/en/documentation/openshift_container_platform/4.18"
+  },
+  {
+    "m": "compose modules",
+    "u": "https://developer.hashicorp.com/terraform/language/modules"
+  },
+  {
+    "m": "fmt -> validate|manual gate",
+    "u": "https://developer.hashicorp.com/terraform/docs"
+  },
+  {
+    "m": "dashboard reproduces",
+    "u": "https://grafana.com/docs/grafana/latest/administration/provisioning/"
+  },
+  {
+    "m": "a policy blocks|blocks a non-compliant|non-compliant workload",
+    "u": "https://kyverno.io/docs/"
+  },
+  {
+    "m": "remediated by policy|non-compliant cluster",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/governance"
+  },
+  {
+    "m": "show the fleet|dr restores",
+    "u": "https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16"
+  },
+  {
+    "m": "multi-tenancy models",
+    "u": "https://kubernetes.io/docs/concepts/security/multi-tenancy/"
+  }
+]

@@ -5,14 +5,14 @@
 **Goal:** Refresh Dynatrace Managed and finalize the platform.
 
 ## Topics
-- [ ] Dynatrace Managed architecture: cluster nodes, ActiveGate, OneAgent — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20architecture)
-- [ ] HA setup, upgrades, backups, DR — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20high%20availability%20upgrade)
-- [ ] Metrics/entities/tags/dashboards; alerting profiles — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20dashboards%20alerting)
+- [ ] Dynatrace Managed architecture: cluster nodes, ActiveGate, OneAgent — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20architecture) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
+- [ ] HA setup, upgrades, backups, DR — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20high%20availability%20upgrade) — [Docs](https://velero.io/docs/)
+- [ ] Metrics/entities/tags/dashboards; alerting profiles — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20dashboards%20alerting) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
 
 ## Deliverable
 - Dynatrace revision notes + observability platform complete
 
 ## Exit check
-- [ ] Observability platform documented with onboarding golden path
+- [ ] Observability platform documented with onboarding golden path — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

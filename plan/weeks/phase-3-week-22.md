@@ -5,7 +5,7 @@
 **Goal:** Full CI -> image -> GitOps -> cluster flow.
 
 ## Topics
-- [ ] Wire CI (Actions) -> image -> ArgoCD auto-sync -> cluster — [YouTube (search)](https://www.youtube.com/results?search_query=gitops%20ci%20cd%20argocd%20github%20actions)
+- [ ] Wire CI (Actions) -> image -> ArgoCD auto-sync -> cluster — [YouTube (search)](https://www.youtube.com/results?search_query=gitops%20ci%20cd%20argocd%20github%20actions) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
 - [ ] Add rollout strategy + rollback docs — [YouTube (search)](https://www.youtube.com/results?search_query=argo%20rollouts%20rollback)
 - [ ] Write architecture + onboarding doc for a new service — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners)
 
@@ -13,6 +13,6 @@
 - projects/gitops-platform/ + README
 
 ## Exit check
-- [ ] A commit flows CI -> image -> GitOps -> running cluster
+- [ ] A commit flows CI -> image -> GitOps -> running cluster — [Docs](https://opengitops.dev/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

@@ -5,8 +5,8 @@
 **Goal:** Sizing, HA and config at scale.
 
 ## Topics
-- [ ] Sizing, replication factors, licensing — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20sizing%20replication%20factor)
-- [ ] Config management at scale (deployment apps, cluster manager) — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20deployment%20server%20cluster%20manager)
+- [ ] Sizing, replication factors, licensing — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20sizing%20replication%20factor) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Config management at scale (deployment apps, cluster manager) — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20deployment%20server%20cluster%20manager) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
 - [ ] What a true platform owner controls (vs onboarding only) — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20platform%20administration%20best%20practices)
 
 ## Deliverable

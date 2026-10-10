@@ -5,16 +5,16 @@
 **Goal:** Author Helm charts from scratch.
 
 ## Topics
-- [ ] Helm architecture: charts, releases, repositories — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
-- [ ] Create a chart: templates, values, .helmignore, helpers — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
-- [ ] Templating: _helpers.tpl, named templates, with/range/if — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
-- [ ] Package, lint, install/uninstall; helm template vs install — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
-- [ ] **[OpenShift]** Packaging on OCP: ImageStreams, BuildConfig/S2I, `oc new-app`, Templates — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
+- [ ] Helm architecture: charts, releases, repositories — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Docs](https://helm.sh/docs/)
+- [ ] Create a chart: templates, values, .helmignore, helpers — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Docs](https://helm.sh/docs/)
+- [ ] Templating: _helpers.tpl, named templates, with/range/if — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Docs](https://helm.sh/docs/)
+- [ ] Package, lint, install/uninstall; helm template vs install — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Docs](https://helm.sh/docs/)
+- [ ] **[OpenShift]** Packaging on OCP: ImageStreams, BuildConfig/S2I, `oc new-app`, Templates — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/building_applications)
 
 ## Deliverable
 - a chart for a simple web app
 
 ## Exit check
-- [ ] Author and install a working chart without copying
+- [ ] Author and install a working chart without copying — [Docs](https://helm.sh/docs/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

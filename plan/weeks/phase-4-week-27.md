@@ -5,9 +5,9 @@
 **Goal:** Add quality gates to infrastructure.
 
 ## Topics
-- [ ] Test types: static (tflint, checkov/tfsec), integration (Terratest), native terraform test — [YouTube (search)](https://www.youtube.com/results?search_query=terratest%20terraform%20testing%20tutorial)
-- [ ] CI pipeline: fmt -> validate -> plan -> policy -> apply (manual gate) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
-- [ ] Policy-as-code: OPA/Conftest or Sentinel basics — [YouTube (search)](https://www.youtube.com/results?search_query=terraform%20policy%20as%20code%20opa%20conftest)
+- [ ] Test types: static (tflint, checkov/tfsec), integration (Terratest), native terraform test — [YouTube (search)](https://www.youtube.com/results?search_query=terratest%20terraform%20testing%20tutorial) — [Docs](https://terratest.gruntwork.io/)
+- [ ] CI pipeline: fmt -> validate -> plan -> policy -> apply (manual gate) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Policy-as-code: OPA/Conftest or Sentinel basics — [YouTube (search)](https://www.youtube.com/results?search_query=terraform%20policy%20as%20code%20opa%20conftest) — [Docs](https://developer.hashicorp.com/terraform/cloud-docs/policy-enforcement/sentinel)
 
 ## Deliverable
 - CI workflow for the module library

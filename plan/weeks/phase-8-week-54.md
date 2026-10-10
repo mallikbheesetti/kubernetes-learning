@@ -5,17 +5,17 @@
 **Goal:** Stand up an RHACM hub and bring clusters under management.
 
 ## Topics
-- [ ] Multicluster architecture: hub, managed clusters, Klusterlet; MCE vs RHACM — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16)
-- [ ] Install RHACM: MultiClusterEngine + MultiClusterHub; sizing the hub — [Red Hat · DO432](https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes)
-- [ ] Provision/import clusters: `ManagedCluster`, `KlusterletAddonConfig` (console & CLI) — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16)
-- [ ] Cluster sets (`ManagedClusterSet`) & cluster pools; hibernation/resume — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16)
-- [ ] Fleet RBAC & search: `ClusterPermission`, `MulticlusterRoleAssignment`, search add-on — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16)
-- [ ] Lab: hub + 2 managed clusters under RHACM — [Red Hat · DO432](https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes)
+- [ ] Multicluster architecture: hub, managed clusters, Klusterlet; MCE vs RHACM — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/about)
+- [ ] Install RHACM: MultiClusterEngine + MultiClusterHub; sizing the hub — [Red Hat · DO432](https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/install)
+- [ ] Provision/import clusters: `ManagedCluster`, `KlusterletAddonConfig` (console & CLI) — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/about)
+- [ ] Cluster sets (`ManagedClusterSet`) & cluster pools; hibernation/resume — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/clusters)
+- [ ] Fleet RBAC & search: `ClusterPermission`, `MulticlusterRoleAssignment`, search add-on — [RHACM docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16/html/secure_clusters)
+- [ ] Lab: hub + 2 managed clusters under RHACM — [Red Hat · DO432](https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes) — [Docs](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16)
 
 ## Deliverable
 - RHACM hub managing 2+ clusters (documented import)
 
 ## Exit check
-- [ ] Import a cluster, search it, and grant fleet-scoped RBAC
+- [ ] Import a cluster, search it, and grant fleet-scoped RBAC — [Docs](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

@@ -5,14 +5,14 @@
 **Goal:** Kibana dashboards and stack operations.
 
 ## Topics
-- [ ] Kibana: index patterns, dashboards, saved searches — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring)
-- [ ] Scaling, monitoring, and securing the EFK stack — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring)
-- [ ] Compare EFK vs Loki (cost, ops, use cases) — write-up — [YouTube (search)](https://www.youtube.com/results?search_query=efk%20vs%20loki%20comparison)
+- [ ] Kibana: index patterns, dashboards, saved searches — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/kibana/current/)
+- [ ] Scaling, monitoring, and securing the EFK stack — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
+- [ ] Compare EFK vs Loki (cost, ops, use cases) — write-up — [YouTube (search)](https://www.youtube.com/results?search_query=efk%20vs%20loki%20comparison) — [Docs](https://grafana.com/docs/loki/latest/)
 
 ## Deliverable
 - Kibana dashboards + comparison notes
 
 ## Exit check
-- [ ] Kibana dashboard built from living data
+- [ ] Kibana dashboard built from living data — [Docs](https://www.elastic.co/guide/en/kibana/current/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

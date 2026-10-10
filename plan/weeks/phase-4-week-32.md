@@ -5,7 +5,7 @@
 **Goal:** Finalize IaC deliverables.
 
 ## Topics
-- [ ] Finalize module library + tests; Ansible role collection + CI — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
+- [ ] Finalize module library + tests; Ansible role collection + CI — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://docs.ansible.com/ansible/latest/)
 - [ ] Document usage; add examples; tag a release — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
 
 ## Deliverable

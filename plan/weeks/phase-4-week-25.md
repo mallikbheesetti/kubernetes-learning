@@ -5,14 +5,14 @@
 **Goal:** Author reusable modules.
 
 ## Topics
-- [ ] Module structure; inputs/outputs; versioning; registry — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
-- [ ] Composition; count vs for_each — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
-- [ ] Build a vpc module — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
+- [ ] Module structure; inputs/outputs; versioning; registry — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/modules)
+- [ ] Composition; count vs for_each — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Build a vpc module — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Deliverable
 - modules/vpc/
 
 ## Exit check
-- [ ] VPC module reusable across environments
+- [ ] VPC module reusable across environments — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

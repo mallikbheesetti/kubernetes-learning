@@ -6,9 +6,9 @@
 
 ## Topics
 - [ ] What a platform is: product, not project; internal customers — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20as%20a%20product%20internal%20developer%20platform)
-- [ ] Golden paths / paved roads; self-service vs ticketing — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20engineering%20golden%20path)
-- [ ] Team Topologies: platform, stream-aligned, enabling teams — [YouTube (search)](https://www.youtube.com/results?search_query=team%20topologies%20platform%20team)
-- [ ] Measuring platform success (adoption, time-to-onboard, DORA, dev NPS) — [YouTube (search)](https://www.youtube.com/results?search_query=dora%20metrics%20platform%20engineering)
+- [ ] Golden paths / paved roads; self-service vs ticketing — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20engineering%20golden%20path) — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
+- [ ] Team Topologies: platform, stream-aligned, enabling teams — [YouTube (search)](https://www.youtube.com/results?search_query=team%20topologies%20platform%20team) — [Docs](https://teamtopologies.com/key-concepts)
+- [ ] Measuring platform success (adoption, time-to-onboard, DORA, dev NPS) — [YouTube (search)](https://www.youtube.com/results?search_query=dora%20metrics%20platform%20engineering) — [Docs](https://dora.dev/)
 - [ ] Build vs buy; standardization vs flexibility tensions — [YouTube (search)](https://www.youtube.com/results?search_query=build%20vs%20buy%20internal%20developer%20platform)
 
 ## Deliverable

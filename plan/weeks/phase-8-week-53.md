@@ -5,17 +5,17 @@
 **Goal:** Master OpenShift-native networking, builds and storage.
 
 ## Topics
-- [ ] Networking: OVN-Kubernetes, Services, Routes vs Ingress, IngressController, MetalLB — [Red Hat · DO380](https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise)
-- [ ] Builds: BuildConfig / S2I, ImageStreams, `oc new-app`, triggers & webhooks — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
-- [ ] Config: ConfigMaps/Secrets, OpenShift Templates, Helm on OpenShift — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
-- [ ] Storage: CSI, StorageClasses, dynamic provisioning, OpenShift Data Foundation (ODF) — [OpenShift docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18)
-- [ ] Built-in GitOps & Pipelines: OpenShift GitOps (ArgoCD) + OpenShift Pipelines (Tekton) — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20gitops%20pipelines%20tekton)
-- [ ] Service Mesh (Istio) & Serverless (Knative) overview — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20service%20mesh%20serverless%20knative)
+- [ ] Networking: OVN-Kubernetes, Services, Routes vs Ingress, IngressController, MetalLB — [Red Hat · DO380](https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/networking_overview)
+- [ ] Builds: BuildConfig / S2I, ImageStreams, `oc new-app`, triggers & webhooks — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/building_applications)
+- [ ] Config: ConfigMaps/Secrets, OpenShift Templates, Helm on OpenShift — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/building_applications)
+- [ ] Storage: CSI, StorageClasses, dynamic provisioning, OpenShift Data Foundation (ODF) — [OpenShift docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/storage/index)
+- [ ] Built-in GitOps & Pipelines: OpenShift GitOps (ArgoCD) + OpenShift Pipelines (Tekton) — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20gitops%20pipelines%20tekton) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/gitops)
+- [ ] Service Mesh (Istio) & Serverless (Knative) overview — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20service%20mesh%20serverless%20knative) — [Docs](https://istio.io/latest/docs/)
 
 ## Deliverable
 - app built via S2I, exposed via Route, config + PVC
 
 ## Exit check
-- [ ] Build/expose a service and deploy it with OpenShift GitOps
+- [ ] Build/expose a service and deploy it with OpenShift GitOps — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/gitops)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

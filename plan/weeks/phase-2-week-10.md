@@ -5,15 +5,15 @@
 **Goal:** Environment overlays without templating.
 
 ## Topics
-- [ ] Bases and overlays; kustomization.yaml — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize)
-- [ ] Patches (strategic merge, JSON6902), image transformers, generators — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize)
-- [ ] ConfigMap/Secret generators with hashing — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize)
-- [ ] Kustomize vs Helm — when to use which — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize)
+- [ ] Bases and overlays; kustomization.yaml — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
+- [ ] Patches (strategic merge, JSON6902), image transformers, generators — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
+- [ ] ConfigMap/Secret generators with hashing — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Docs](https://kubernetes.io/docs/concepts/configuration/configmap/)
+- [ ] Kustomize vs Helm — when to use which — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
 
 ## Deliverable
 - dev/staging/prod overlays for the app
 
 ## Exit check
-- [ ] Render three environment overlays from one base
+- [ ] Render three environment overlays from one base — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

@@ -5,8 +5,8 @@
 **Goal:** Re-establish Ansible fluency.
 
 ## Topics
-- [ ] Inventory, modules, playbooks, variables, facts, handlers, Jinja2 templates — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
-- [ ] Idempotency; --check/--diff; vault for secrets — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
+- [ ] Inventory, modules, playbooks, variables, facts, handlers, Jinja2 templates — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Docs](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_templating.html)
+- [ ] Idempotency; --check/--diff; vault for secrets — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Docs](https://developer.hashicorp.com/vault/docs)
 - [ ] Re-run 5 lab exercises from memory — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
 
 ## Deliverable

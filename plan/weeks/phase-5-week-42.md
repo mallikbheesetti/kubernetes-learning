@@ -5,14 +5,14 @@
 **Goal:** Understand Splunk cluster architecture.
 
 ## Topics
-- [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20architecture%20indexers%20search%20heads)
-- [ ] Indexer clustering & search head clustering concepts — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20indexer%20clustering%20explained)
-- [ ] Data lifecycle: hot/warm/cold/frozen, retention — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20data%20lifecycle%20retention)
+- [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20architecture%20indexers%20search%20heads) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Indexer clustering & search head clustering concepts — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20indexer%20clustering%20explained) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Data lifecycle: hot/warm/cold/frozen, retention — [YouTube (search)](https://www.youtube.com/results?search_query=splunk%20data%20lifecycle%20retention) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
 
 ## Deliverable
 - diagrams + notes building a Splunk cluster
 
 ## Exit check
-- [ ] Explain indexer/SH cluster topology from memory
+- [ ] Explain indexer/SH cluster topology from memory — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

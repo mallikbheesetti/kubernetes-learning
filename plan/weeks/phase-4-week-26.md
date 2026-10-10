@@ -5,13 +5,13 @@
 **Goal:** Compose EKS + IAM modules.
 
 ## Topics
-- [ ] Build eks and iam modules; wire them together — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
-- [ ] Providers & aliases; multi-region; provisioners (and why to avoid) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
+- [ ] Build eks and iam modules; wire them together — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [ ] Providers & aliases; multi-region; provisioners (and why to avoid) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://kubernetes.io/docs/tasks/tools/)
 
 ## Deliverable
 - modules/eks/, modules/iam/, root composition
 
 ## Exit check
-- [ ] Compose modules into a working stack
+- [ ] Compose modules into a working stack — [Docs](https://developer.hashicorp.com/terraform/language/modules)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

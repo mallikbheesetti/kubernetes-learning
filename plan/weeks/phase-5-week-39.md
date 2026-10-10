@@ -5,14 +5,14 @@
 **Goal:** Build Elasticsearch + Fluent Bit.
 
 ## Topics
-- [ ] Elasticsearch architecture & sizing; index lifecycle (ILM) — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring)
-- [ ] Fluent Bit vs Fluentd; collection pipelines — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring)
-- [ ] Deploy Elasticsearch + Fluent Bit feeding it — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring)
+- [ ] Elasticsearch architecture & sizing; index lifecycle (ILM) — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
+- [ ] Fluent Bit vs Fluentd; collection pipelines — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://docs.fluentbit.io/)
+- [ ] Deploy Elasticsearch + Fluent Bit feeding it — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://docs.fluentbit.io/)
 
 ## Deliverable
 - Elasticsearch cluster + Fluent Bit DaemonSet
 
 ## Exit check
-- [ ] Logs land in Elasticsearch from all nodes
+- [ ] Logs land in Elasticsearch from all nodes — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

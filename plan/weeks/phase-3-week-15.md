@@ -5,14 +5,14 @@
 **Goal:** Rock-solid Git and collaboration workflows.
 
 ## Topics
-- [ ] Git recovery/advanced: rebase, cherry-pick, reflog, bisect, worktrees — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners)
-- [ ] Trunk-based development, conventional commits, PR workflow — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners)
-- [ ] Branch protection, CODEOWNERS, signed commits — [KodeKloud · GitHub Administration Certification](https://kodekloud.com/courses/github-administration-certification)
+- [ ] Git recovery/advanced: rebase, cherry-pick, reflog, bisect, worktrees — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Docs](https://git-scm.com/doc)
+- [ ] Trunk-based development, conventional commits, PR workflow — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Docs](https://www.conventionalcommits.org/)
+- [ ] Branch protection, CODEOWNERS, signed commits — [KodeKloud · GitHub Administration Certification](https://kodekloud.com/courses/github-administration-certification) — [Docs](https://docs.github.com/en)
 
 ## Deliverable
 - GIT_RECOVERY.md drill notes
 
 ## Exit check
-- [ ] Recover from a bad-merge scenario using reflog/bisect
+- [ ] Recover from a bad-merge scenario using reflog/bisect — [Docs](https://git-scm.com/doc)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.

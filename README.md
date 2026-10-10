@@ -27,3 +27,12 @@ each phase file (per week) are recomputed from that checkbox state by
 `scripts/update_progress.py` — run automatically by the
 [`Update progress bars`](.github/workflows/update-progress.yml) workflow on push,
 or locally with `python3 scripts/update_progress.py`.
+
+## Docs links
+
+Every checklist item in the week pages links to the official docs for the
+technology it covers (alongside the KodeKloud/YouTube video link). The mapping
+(`scripts/docs-links.json`) is applied by `scripts/add_docs_links.py`; re-run it
+after editing week pages to keep links consistent (`python3 scripts/add_docs_links.py`).
+Items without a specific tool — exams, leadership topics, deliverables — are left
+intentionally unlinked.

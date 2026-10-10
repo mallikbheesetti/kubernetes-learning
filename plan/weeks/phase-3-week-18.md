@@ -5,14 +5,14 @@
 **Goal:** Multi-env GitOps with app-of-apps and revals.
 
 ## Topics
-- [ ] App-of-apps / ApplicationSets for multi-env — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20app%20of%20apps%20applicationset)
-- [ ] Sync waves & hooks; health checks; drift detection — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20sync%20waves%20drift%20detection)
-- [ ] Projects, RBAC, SSO integration concepts — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20rbac%20sso)
+- [ ] App-of-apps / ApplicationSets for multi-env — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20app%20of%20apps%20applicationset) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Sync waves & hooks; health checks; drift detection — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20sync%20waves%20drift%20detection) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Projects, RBAC, SSO integration concepts — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20rbac%20sso) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
 
 ## Deliverable
 - app-of-apps managing the umbrella app across overlays
 
 ## Exit check
-- [ ] One Git change propagates across environments
+- [ ] One Git change propagates across environments — [Docs](https://argo-cd.readthedocs.io/en/stable/)
 
 > Mark topics `[x]` as you finish them and commit this page to track progress.
