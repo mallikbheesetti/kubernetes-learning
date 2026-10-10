@@ -11,6 +11,25 @@ policies, RBAC, Pod Security, network policies, and Vault-backed secrets.
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Kubernetes Security** — **0 / 24** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Week 45 — Authentication, Authorization & RBAC | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 46 — Cluster Hardening & Pod Security | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 47 — Network Security & Supply Chain | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 48 — Runtime Security & Monitoring | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 49 — Policy-as-Code with Kyverno | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 50 — Project Integration & Exit | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Week Pages
 - [Week 45 — Authentication, Authorization & RBAC](weeks/phase-6-week-45.md)
 - [Week 46 — Cluster Hardening & Pod Security](weeks/phase-6-week-46.md)

@@ -10,6 +10,25 @@ it's continuous and partly non-technical.
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Platform Engineering: Owner & Leader** — **0 / 34** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Track A — Platform as a Product (Technical Strategy) | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Track B — Internal Developer Platform (Tooling) | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Track C — Reliability & Operations (SRE) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Track D — Governance, Security & FinOps | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Track E — Leadership & Team Management | 0 / 7 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Capstone — Platform-in-a-Box | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Module Pages
 - [Module A — Platform as a Product](weeks/phase-7-module-a-platform-as-a-product.md)
 - [Module B — Internal Developer Platform (Tooling)](weeks/phase-7-module-b-idp-tooling.md)

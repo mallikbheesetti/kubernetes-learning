@@ -13,6 +13,31 @@ golden path.
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Observability Platform Ownership** — **0 / 49** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Week 33 — Metrics Fundamentals & Prometheus I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 34 — Prometheus II: PromQL | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 35 — Grafana & Dashboards | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 36 — SLOs, Error Budgets & Instrumentation | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 37 — Logging with Loki I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 38 — Loki II | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 39 — EFK Stack I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 40 — EFK Stack II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 41 — Distributed Tracing & OpenTelemetry | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 42 — Splunk: Beyond Log Onboarding I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 43 — Splunk: Beyond Log Onboarding II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 44 — Dynatrace Managed Revision + Project Exit | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Week Pages
 - [Week 33 — Metrics Fundamentals & Prometheus I](weeks/phase-5-week-33.md)
 - [Week 34 — Prometheus II: PromQL & Alerts](weeks/phase-5-week-34.md)

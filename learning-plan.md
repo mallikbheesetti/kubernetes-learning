@@ -6,6 +6,26 @@ Background: CKA certified (2025) but hands-on Kubernetes work was ~2 years ago;
 AWS SAA; strong scripting (Python/Bash); observability exposure (Splunk limited
 to log onboarding; Dynatrace Managed cluster management ~2 years ago).
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Overall** — **0 / 256** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Phase | Timeline | Tasks | Progress |
+| --- | --- | --- | --- |
+| 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 0 / 33 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 42 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 3 — GitOps & CI/CD Depth | Weeks 15–22 | 0 / 34 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 4 — Infrastructure as Code | Weeks 23–32 | 0 / 40 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 5 — Observability Platform Ownership | Weeks 33–44 | 0 / 49 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 6 — Kubernetes Security | Weeks 45–50 | 0 / 24 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 7 — Platform Engineering: Owner & Leader | Months 10–12+ | 0 / 34 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from checklist state. Run [`scripts/update_progress.py`](scripts/update_progress.py) (or let the `Update progress bars` GitHub Action run it) to refresh._
+<!-- PROGRESS:END -->
+
 ## Goal
 
 Become a **strong Platform Owner / Technical Leader** who can:

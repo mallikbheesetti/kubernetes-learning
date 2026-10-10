@@ -12,6 +12,28 @@ via a Helm umbrella chart with Kustomize overlays for dev/staging/prod.
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Kubernetes Depth & Application Delivery** — **0 / 42** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Week 6 — Networking Deep Dive I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 7 — Networking Deep Dive II | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 8 — Helm I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 9 — Helm II | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 10 — Kustomize | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 11 — Kubernetes Operators I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 12 — Kubernetes Operators II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 13 — Autoscaling & Troubleshooting | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 14 — Project Integration & Exit | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Week Pages
 - [Week 6 — Networking Deep Dive I](weeks/phase-2-week-06.md)
 - [Week 7 — Networking Deep Dive II](weeks/phase-2-week-07.md)

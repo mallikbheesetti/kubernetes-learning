@@ -12,6 +12,27 @@ Spinnaker docs (deepen only if used at work).
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**GitOps & CI/CD Depth** — **0 / 34** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Week 15 — Git & Branching Discipline | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 16 — GitHub Actions (Modern CI) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 17 — ArgoCD I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 18 — ArgoCD II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 19 — Jenkins (Deepen from Basic) | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 20 — Spinnaker (Deepen from Basic) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 21 — Progressive Delivery | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 22 — Project Integration & Exit | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Week Pages
 - [Week 15 — Git & Branching Discipline](weeks/phase-3-week-15.md)
 - [Week 16 — GitHub Actions (Modern CI)](weeks/phase-3-week-16.md)

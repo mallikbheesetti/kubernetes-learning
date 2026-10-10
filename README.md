@@ -21,3 +21,8 @@ platform engineering, and AI/ML on Kubernetes).
 ## Progress
 
 Track progress by ticking the checkboxes in the phase files above, then commit.
+Green/red progress bars in [`learning-plan.md`](learning-plan.md) (per phase) and
+each phase file (per week) are recomputed from that checkbox state by
+`scripts/update_progress.py` — run automatically by the
+[`Update progress bars`](.github/workflows/update-progress.yml) workflow on push,
+or locally with `python3 scripts/update_progress.py`.

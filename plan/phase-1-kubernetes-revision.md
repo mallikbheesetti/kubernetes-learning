@@ -10,6 +10,24 @@ before going deep. Treat this as a *refresh*, not first-time learning.
 
 ---
 
+<!-- PROGRESS:START -->
+## Progress
+
+**Kubernetes Revision & Re-Fluency** — **0 / 33** tasks complete (**0%**)
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+| Week / Module | Tasks | Progress |
+| --- | --- | --- |
+| Week 1 — Environment + Fundamentals Refresh | 0 / 7 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 2 — Workloads & Controllers | 0 / 7 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 3 — Networking, Services & Config | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 4 — Scheduling, Storage & Troubleshooting | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 5 — Internals, Backup & Cold Mock CKA | 0 / 7 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+
+_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+<!-- PROGRESS:END -->
+
 ## Week Pages
 - [Week 1 — Environment + Fundamentals Refresh](weeks/phase-1-week-01.md)
 - [Week 2 — Workloads & Controllers](weeks/phase-1-week-02.md)
