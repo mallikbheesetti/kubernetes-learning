@@ -5,11 +5,11 @@
 **Goal:** Remaster every core workload primitive and controller.
 
 ## Topics
-- [ ] Pods: lifecycle, init containers, sidecars, probes (liveness/readiness/startup) — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
-- [ ] ReplicaSets, Deployments, rolling updates & rollbacks — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-- [ ] DaemonSets, StatefulSets (headless services, stable identity) — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
-- [ ] Jobs & CronJobs; parallel/completion semantics — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
-- [ ] Resource requests/limits, QoS classes — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Docs](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
+- [ ] Pods: lifecycle, init containers, sidecars, probes (liveness/readiness/startup) — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=yRiFq1ykBxc) — [Docs](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
+- [ ] ReplicaSets, Deployments, rolling updates & rollbacks — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=4k_Zsf-b90Y) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [ ] DaemonSets, StatefulSets (headless services, stable identity) — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Video](https://www.youtube.com/watch?v=RGSeeN-o-kQ) — [Video 2](https://www.youtube.com/watch?v=pPQKAR1pA9U) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+- [ ] Jobs & CronJobs; parallel/completion semantics — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Video](https://www.youtube.com/watch?v=jWD1B5Ynh_8) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [ ] Resource requests/limits, QoS classes — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Video](https://www.youtube.com/watch?v=DLVmhu1lFmI) — [Docs](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
 
 ## Deliverable
 - Drill notes in labs/workloads/NOTES.md

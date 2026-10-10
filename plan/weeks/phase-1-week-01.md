@@ -5,11 +5,11 @@
 **Goal:** Set up your tooling and refresh core Kubernetes architecture.
 
 ## Topics
-- [ ] Install kubectl, kind, k3d, k9s, helm; aliases + shell completion — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kubernetes.io/docs/tasks/tools/)
-- [ ] Spin up a local multi-node cluster (1 control-plane + 2 workers) with kind — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kind.sigs.k8s.io/docs/)
-- [ ] Review cluster architecture: control plane components, kubelet, kube-proxy, CNI — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Docs](https://kubernetes.io/docs/concepts/overview/components/)
-- [ ] Namespaces, contexts, kubectl config, --dry-run=client -o yaml workflow — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
-- [ ] Declarative vs imperative: create manifests with kubectl apply — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Docs](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
+- [ ] Install kubectl, kind, k3d, k9s, helm; aliases + shell completion — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=SeQevrW176A) — [Video 2](https://www.youtube.com/watch?v=AMUQzyPvO04) — [Docs](https://kubernetes.io/docs/tasks/tools/)
+- [ ] Spin up a local multi-node cluster (1 control-plane + 2 workers) with kind — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=RORhczcOrWs) — [Lab](https://kind.sigs.k8s.io/docs/user/quick-start) — [Docs](https://kind.sigs.k8s.io/docs/)
+- [ ] Review cluster architecture: control plane components, kubelet, kube-proxy, CNI — [KodeKloud · CKA Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka) — [Video](https://www.youtube.com/watch?v=umXEmn3cMWY) — [Docs](https://kubernetes.io/docs/concepts/overview/components/)
+- [ ] Namespaces, contexts, kubectl config, --dry-run=client -o yaml workflow — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=K3jNo4z5Jx8) — [Docs](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
+- [ ] Declarative vs imperative: create manifests with kubectl apply — [KodeKloud · Kubernetes for Beginners](https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners-hands-on-tutorial) — [Video](https://www.youtube.com/watch?v=shqiLgbzIJY) — [Docs](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
 
 ## Deliverable
 - projects/k8s-bootstrap/kind-config.yaml committed
