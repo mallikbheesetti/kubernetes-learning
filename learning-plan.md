@@ -9,19 +9,20 @@ to log onboarding; Dynatrace Managed cluster management ~2 years ago).
 <!-- PROGRESS:START -->
 ## Progress
 
-**Overall** — **0 / 256** tasks complete (**0%**)
+**Overall** — **0 / 322** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Phase | Timeline | Tasks | Progress |
 | --- | --- | --- | --- |
 | 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 0 / 33 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 42 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 3 — GitOps & CI/CD Depth | Weeks 15–22 | 0 / 34 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 4 — Infrastructure as Code | Weeks 23–32 | 0 / 40 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 5 — Observability Platform Ownership | Weeks 33–44 | 0 / 49 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 6 — Kubernetes Security | Weeks 45–50 | 0 / 24 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 45 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 3 — GitOps & CI/CD Depth | Weeks 15–22 | 0 / 36 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 4 — Infrastructure as Code | Weeks 23–32 | 0 / 41 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 5 — Observability Platform Ownership | Weeks 33–44 | 0 / 52 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 6 — Kubernetes Security | Weeks 45–50 | 0 / 26 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 7 — Platform Engineering: Owner & Leader | Months 10–12+ | 0 / 34 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 8 — OpenShift: Advanced Cluster Management | Weeks 51–58 | 0 / 55 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 
 _Auto-generated from checklist state. Run [`scripts/update_progress.py`](scripts/update_progress.py) (or let the `Update progress bars` GitHub Action run it) to refresh._
 <!-- PROGRESS:END -->
@@ -54,6 +55,7 @@ demonstrable, hands-on capability and portfolio evidence.
 | Service mesh (Istio) / Gateways | None | Medium |
 | Platform Engineering (as owner/leader) | Practitioner, not owner | **High** |
 | Team leadership / platform-as-product | Some mentoring | **High** |
+| OpenShift / RHACM (multi-cluster) | No hands-on; target = advanced cluster management | **High** |
 
 ## Phased Plan (~12 months, ~8–10 hrs/week)
 
@@ -123,6 +125,24 @@ demonstrable, hands-on capability and portfolio evidence.
   (EKS + Terraform + ArgoCD + Helm/Kustomize + observability + policies)
   and a platform team operating model / charter you could present to leadership
 
+### Phase 8 — OpenShift: Advanced Cluster Management (Weeks 51–58)
+*Your stated target: advanced cluster management of OpenShift — governing a **fleet** of
+clusters, not a single one. Requires Phases 1–6; pairs with Phase 7 (leadership).*
+- OpenShift fundamentals → day-2 at scale: OCP architecture (CVO/ClusterOperators, MCO,
+  MachineConfigPool), Projects/OAuth/SCC, OLM, MachineSets, EUS upgrades, `must-gather`,
+  disconnected/air-gapped installs
+- OpenShift-native: OVN-Kubernetes, Routes/Ingress, Builds/S2I/ImageStreams, ODF,
+  OpenShift GitOps (ArgoCD) & Pipelines (Tekton)
+- **Red Hat Advanced Cluster Management (RHACM)**: hub/spoke, `ManagedCluster`/Klusterlet,
+  cluster sets & pools, fleet RBAC & search
+- Provisioning at scale: Hive, Assisted Installer/ZTP, Hosted Control Planes (HyperShift),
+  ROSA / ARO / OSD lifecycle
+- Governance: policy framework, Placement, Policy Generator, Compliance/CIS, GitOps enforcement
+- Multicluster observability (Thanos), app delivery, Submariner, OADP + ODF Regional/Metro-DR
+- Global Hub, hub migration & fleet scale; **optional checkpoint: EX432**
+- **Project:** `projects/openshift-fleet/` — RHACM hub + managed clusters with GitOps,
+  policies, observability and a DR runbook
+
 ## Suggested Weekly Cadence (~10 hrs)
 - Mon–Fri: 1 hr theory/course + 30 min hands-on lab
 - Sat: 2–3 hr project deep work
@@ -142,3 +162,4 @@ Track completion here (date + activity + artifact/link):
 - [ ] Phase 5: open-source observability platform built; Splunk/Dynatrace revised
 - [ ] Phase 6: hardened cluster baseline with policies + Vault
 - [ ] Phase 7: platform reference architecture + team operating model written
+- [ ] Phase 8: OpenShift advanced cluster management — RHACM fleet project shipped

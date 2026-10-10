@@ -15,18 +15,18 @@ via a Helm umbrella chart with Kustomize overlays for dev/staging/prod.
 <!-- PROGRESS:START -->
 ## Progress
 
-**Kubernetes Depth & Application Delivery** — **0 / 42** tasks complete (**0%**)
+**Kubernetes Depth & Application Delivery** — **0 / 45** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Week / Module | Tasks | Progress |
 | --- | --- | --- |
 | Week 6 — Networking Deep Dive I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 7 — Networking Deep Dive II | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 8 — Helm I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 7 — Networking Deep Dive II | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 8 — Helm I | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 9 — Helm II | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 10 — Kustomize | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 11 — Kubernetes Operators I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 11 — Kubernetes Operators I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 12 — Kubernetes Operators II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 13 — Autoscaling & Troubleshooting | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 14 — Project Integration & Exit | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
@@ -58,6 +58,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Service discovery patterns; headless services for StatefulSets
 - [ ] Troubleshoot DNS and connectivity failures
 - [ ] **Deliverable:** `labs/networking/` manifests + `NOTES.md`
+- [ ] **[OpenShift]** Routes & the default IngressController (`oc expose`, `oc create route`) — see Phase 8
 
 ## Week 8 — Helm I
 - [ ] Helm architecture: charts, releases, repositories
@@ -65,6 +66,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Templating: `_helpers.tpl`, named templates, `with`/`range`/`if`
 - [ ] Package, lint, and install/uninstall; `helm template` vs `install`
 - [ ] **Deliverable:** a chart for a simple web app
+- [ ] **[OpenShift]** Packaging on OCP: ImageStreams, BuildConfig/S2I, `oc new-app`, Templates — see Phase 8
 
 ## Week 9 — Helm II
 - [ ] Subcharts & dependencies; umbrella charts
@@ -85,6 +87,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Install an existing operator (e.g., cert-manager or a DB operator)
 - [ ] Understand CRDs and `kubectl get crd`, status/conditions
 - [ ] **Deliverable:** operator installed + CR managed (documented)
+- [ ] **[OpenShift]** OLM & OperatorHub: `Subscription`, `ClusterServiceVersion`, `ClusterOperators` — see Phase 8
 
 ## Week 12 — Kubernetes Operators II
 - [ ] Build a tiny operator (Kubebuilder or Operator SDK) — Go or scaffold

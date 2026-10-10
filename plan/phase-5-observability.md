@@ -16,21 +16,21 @@ golden path.
 <!-- PROGRESS:START -->
 ## Progress
 
-**Observability Platform Ownership** — **0 / 49** tasks complete (**0%**)
+**Observability Platform Ownership** — **0 / 52** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Week / Module | Tasks | Progress |
 | --- | --- | --- |
-| Week 33 — Metrics Fundamentals & Prometheus I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 33 — Metrics Fundamentals & Prometheus I | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 34 — Prometheus II: PromQL | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 35 — Grafana & Dashboards | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 36 — SLOs, Error Budgets & Instrumentation | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 37 — Logging with Loki I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 37 — Logging with Loki I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 38 — Loki II | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 39 — EFK Stack I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 40 — EFK Stack II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 41 — Distributed Tracing & OpenTelemetry | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 41 — Distributed Tracing & OpenTelemetry | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 42 — Splunk: Beyond Log Onboarding I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 43 — Splunk: Beyond Log Onboarding II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 44 — Dynatrace Managed Revision + Project Exit | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
@@ -58,6 +58,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Deploy Prometheus on K8s (kube-prometheus-stack via Helm)
 - [ ] Exporters & service discovery (kubernetes_sd_configs)
 - [ ] **Deliverable:** Prometheus running, scraping your app
+- [ ] **[OpenShift]** Built-in monitoring: user-workload monitoring, Thanos, Alertmanager — see Phase 8
 
 ## Week 34 — Prometheus II: PromQL
 - [ ] Selectors, ranges, functions, rates, aggregations, `histogram_quantile`
@@ -82,6 +83,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Deploy Loki + Alloy/Promtail on K8s
 - [ ] LogQL basics and log pipelines
 - [ ] **Deliverable:** cluster + app logs queryable in Grafana
+- [ ] **[OpenShift]** OpenShift Logging (LokiStack/Vector) vs legacy ClusterLogging — see Phase 8
 
 ## Week 38 — Loki II
 - [ ] Retention, multi-tenancy, object storage backend
@@ -105,6 +107,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] OTel Collector (receivers/processors/exporters); OTLP
 - [ ] Export traces to Tempo/Jaeger; correlate with logs/metrics
 - [ ] **Deliverable:** end-to-end trace for the app in Tempo/Jaeger
+- [ ] **[OpenShift]** Distributed Tracing (Tempo/Jaeger) via OpenTelemetry on OCP — see Phase 8
 
 ## Week 42 — Splunk: Beyond Log Onboarding I
 - [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders

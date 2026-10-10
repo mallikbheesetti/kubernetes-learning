@@ -36,6 +36,7 @@ PHASE_META = {
     5: ("Observability Platform Ownership", "Weeks 33\u201344"),
     6: ("Kubernetes Security", "Weeks 45\u201350"),
     7: ("Platform Engineering: Owner & Leader", "Months 10\u201312+"),
+    8: ("OpenShift: Advanced Cluster Management", "Weeks 51\u201358"),
 }
 
 CHECK_RE = re.compile(r"^\s*- \[([ xX])\]")

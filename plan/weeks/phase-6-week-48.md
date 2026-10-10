@@ -8,6 +8,7 @@
 - [ ] Threat model; runtime detection (Falco) concepts + deploy — [YouTube (search)](https://www.youtube.com/results?search_query=falco%20runtime%20security%20kubernetes)
 - [ ] Audit logging (API server audit policy) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
 - [ ] Secrets: encryption at rest; external secrets; Vault integration — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
+- [ ] **[OpenShift]** OpenShift OAuth/identity providers, Compliance Operator, RHACS — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20security%20oauth%20scc%20compliance)
 
 ## Deliverable
 - Falco rules + audit policy + Vault secrets injection

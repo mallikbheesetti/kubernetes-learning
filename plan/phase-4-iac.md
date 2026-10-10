@@ -15,7 +15,7 @@ used before and needs revision + tests to prove retention.
 <!-- PROGRESS:START -->
 ## Progress
 
-**Infrastructure as Code** — **0 / 40** tasks complete (**0%**)
+**Infrastructure as Code** — **0 / 41** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -27,7 +27,7 @@ used before and needs revision + tests to prove retention.
 | Week 26 — Terraform Modules II | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 27 — Testing & CI for IaC | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 28 — Advanced Ecosystem | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 29 — Terraform + EKS (Real Cluster) | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 29 — Terraform + EKS (Real Cluster) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 30 — Ansible Revision I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 31 — Ansible Revision II + Testing | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 32 — Project Integration & Exit | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
@@ -89,6 +89,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Node groups, OIDC/IRSA, add-ons (CNI, CSI, CoreDNS)
 - [ ] Connect kubectl; deploy the Phase 2 app onto it
 - [ ] **Deliverable:** EKS stack up + app deployed (document cost/teardown)
+- [ ] **[OpenShift]** Managed OpenShift in cloud: ROSA (AWS) / ARO (Azure) via Terraform + CLIs — see Phase 8
 
 ## Week 30 — Ansible Revision I
 - [ ] Inventory, modules, playbooks, variables, facts, handlers, templates (Jinja2)

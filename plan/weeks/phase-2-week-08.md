@@ -9,6 +9,7 @@
 - [ ] Create a chart: templates, values, .helmignore, helpers — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
 - [ ] Templating: _helpers.tpl, named templates, with/range/if — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
 - [ ] Package, lint, install/uninstall; helm template vs install — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners)
+- [ ] **[OpenShift]** Packaging on OCP: ImageStreams, BuildConfig/S2I, `oc new-app`, Templates — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
 
 ## Deliverable
 - a chart for a simple web app

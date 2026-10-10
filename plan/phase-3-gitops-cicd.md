@@ -15,15 +15,15 @@ Spinnaker docs (deepen only if used at work).
 <!-- PROGRESS:START -->
 ## Progress
 
-**GitOps & CI/CD Depth** — **0 / 34** tasks complete (**0%**)
+**GitOps & CI/CD Depth** — **0 / 36** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Week / Module | Tasks | Progress |
 | --- | --- | --- |
 | Week 15 — Git & Branching Discipline | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 16 — GitHub Actions (Modern CI) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 17 — ArgoCD I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 16 — GitHub Actions (Modern CI) | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 17 — ArgoCD I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 18 — ArgoCD II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 19 — Jenkins (Deepen from Basic) | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 20 — Spinnaker (Deepen from Basic) | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
@@ -55,12 +55,14 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [ ] Reusable workflows + composite actions
 - [ ] OIDC to cloud (no long-lived keys)
 - [ ] **Deliverable:** `.github/workflows/build.yaml` for the umbrella app
+- [ ] **[OpenShift]** OpenShift Pipelines (Tekton) + S2I builds as native CI — see Phase 8
 
 ## Week 17 — ArgoCD I
 - [ ] GitOps principles; ArgoCD architecture (repo-server, controller, redis)
 - [ ] Install ArgoCD; connect a Git repo; create an Application
 - [ ] Sync policies: auto-sync, prune, self-heal
 - [ ] **Deliverable:** ArgoCD installed + one app synced from Git
+- [ ] **[OpenShift]** OpenShift GitOps operator (ArgoCD-based) for cluster + app config — see Phase 8
 
 ## Week 18 — ArgoCD II
 - [ ] App-of-apps / ApplicationSets for multi-env

@@ -8,6 +8,7 @@
 - [ ] Loki architecture (distributor/ingester/querier); labels vs content — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki)
 - [ ] Deploy Loki + Alloy/Promtail on K8s — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki)
 - [ ] LogQL basics and log pipelines — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki)
+- [ ] **[OpenShift]** OpenShift Logging (LokiStack/Vector) vs legacy ClusterLogging — [OpenShift docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18)
 
 ## Deliverable
 - cluster + app logs queryable in Grafana

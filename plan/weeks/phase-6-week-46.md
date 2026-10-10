@@ -8,6 +8,7 @@
 - [ ] API server/etcd/kubelet hardening flags; CIS benchmark scan (kube-bench) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
 - [ ] Pod Security Admission (baseline/restricted); securityContext — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
 - [ ] seccomp, AppArmor/SELinux, capability dropping, read-only FS — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks)
+- [ ] **[OpenShift]** Security Context Constraints (SCC) & default service accounts — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
 
 ## Deliverable
 - restricted-namespace enforcement demonstration

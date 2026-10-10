@@ -8,6 +8,7 @@
 - [ ] Operator pattern, CRDs, controllers, reconciliation loop — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators)
 - [ ] Install an existing operator (e.g., cert-manager or a DB operator) — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators)
 - [ ] CRDs and kubectl get crd, status/conditions — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators)
+- [ ] **[OpenShift]** OLM & OperatorHub: `Subscription`, `ClusterServiceVersion`, `ClusterOperators` — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
 
 ## Deliverable
 - operator installed + CR managed (documented)

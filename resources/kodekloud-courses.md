@@ -23,6 +23,7 @@ Base course URL pattern: `https://kodekloud.com/courses/<slug>`
 | Learn By Doing: Kubernetes Policies with Kyverno | `learn-by-doing-kubernetes-policies-with-kyverno` |
 | Learn By Doing: Deploying & Managing the EFK Stack on Kubernetes | `learn-by-doing-deploying-and-managing-the-efk-stack-on-kubernetes` |
 | EFK Stack: Enterprise-Grade Logging and Monitoring | `efk-stack-enterprise-grade-logging-and-monitoring` |
+| OpenShift 4 (Kubernetes distribution / PaaS) | `openshift-4` |
 
 ## 2. Kubernetes Certifications (Kubestronaut family)
 
@@ -109,6 +110,25 @@ Learning paths: Kubestronaut (9 courses), Golden Kubestronaut (19 courses).
 - Loop Engineering — `loop-engineering`
 
 ## Browsable Category Pages
+
+## 13. Red Hat OpenShift — Advanced Cluster Management (Phase 8)
+
+OpenShift = enterprise Kubernetes. The goal is **advanced cluster management**: a
+fleet of clusters governed from an RHACM hub (hub/spoke), not one cluster.
+
+| Resource | Purpose |
+| --- | --- |
+| KodeKloud OpenShift 4 | `https://kodekloud.com/courses/openshift-4` — OCP basics, projects, routes, S2I, SCC |
+| Red Hat DO280 — OpenShift Administration II: Operating a Production Kubernetes Cluster | `https://www.redhat.com/en/services/training/do280-red-hat-openshift-administration-ii-operating-production-kubernetes-cluster` — install/operate OCP |
+| Red Hat DO380 — OpenShift Administration III: Scaling Deployments in the Enterprise | `https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise` — OLM, MachineConfigPool, EUS upgrades, GitOps, monitoring/logging, OADP |
+| Red Hat DO432 — Multicluster Management with RHACM | `https://www.redhat.com/en/services/training/do432-multicluster-management-red-hat-advanced-cluster-management-kubernetes` — RHACM install, governance, observability, GitOps, virtualization |
+| Red Hat EX432 — Certified Specialist in OpenShift Advanced Cluster Management (optional checkpoint) | `https://www.redhat.com/en/services/certification/ex432-red-hat-certified-specialist-openshift-advanced-cluster-management` |
+| RHACM documentation (2.16) | `https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes/2.16` — policies, placement, cluster lifecycle, global hub |
+| OpenShift Container Platform docs (4.18) | `https://docs.redhat.com/en/documentation/openshift_container_platform/4.18` — OCP reference for all Phase 8 topics |
+
+RHACM key objects to master: `ManagedCluster` / `Klusterlet`, `ManagedClusterSet`,
+`Placement` / `PlacementDecision`, `Policy` + controllers, `ClusterDeployment` (Hive),
+`HostedCluster` (HyperShift), `ClusterInstance` (ZTP), Global Hub.
 
 - Kubernetes: https://kodekloud.com/learn/kubernetes-courses
 - Docker: https://kodekloud.com/learn/docker-courses

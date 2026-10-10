@@ -8,6 +8,7 @@
 - [ ] GitOps principles; ArgoCD architecture (repo-server, controller, redis) — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20architecture%20gitops)
 - [ ] Install ArgoCD; connect a Git repo; create an Application — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20install%20tutorial)
 - [ ] Sync policies: auto-sync, prune, self-heal — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20sync%20policy%20self%20heal)
+- [ ] **[OpenShift]** OpenShift GitOps operator (ArgoCD-based) for cluster + app config — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20gitops%20argocd%20operator)
 
 ## Deliverable
 - ArgoCD installed + one app synced from Git

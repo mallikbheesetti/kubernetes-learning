@@ -8,6 +8,7 @@
 - [ ] Provision a real EKS cluster via modules — [KodeKloud · AWS EKS](https://kodekloud.com/courses/aws-eks)
 - [ ] Node groups, OIDC/IRSA, add-ons (CNI, CSI, CoreDNS) — [KodeKloud · AWS EKS](https://kodekloud.com/courses/aws-eks)
 - [ ] Connect kubectl; deploy the Phase 2 app onto it — [KodeKloud · AWS EKS](https://kodekloud.com/courses/aws-eks)
+- [ ] **[OpenShift]** Managed OpenShift in cloud: ROSA (AWS) / ARO (Azure) via Terraform + CLIs — [Red Hat · DO280](https://www.redhat.com/en/services/training/do280-red-hat-openshift-administration-ii-operating-production-kubernetes-cluster)
 
 ## Deliverable
 - EKS stack up + app deployed (document cost/teardown)

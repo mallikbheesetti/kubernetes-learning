@@ -73,3 +73,13 @@ One page per week. Tick topics `[x]` and commit to track progress.
 - [Module E — Leadership & Team Management](phase-7-module-e-leadership.md)
 - [Capstone — Platform-in-a-Box](phase-7-capstone.md)
 
+## Phase 8 — OpenShift: Advanced Cluster Management
+- [Week 51 — OpenShift Foundations & Architecture](phase-8-week-51.md)
+- [Week 52 — OpenShift Day-2 Operations & Upgrades](phase-8-week-52.md)
+- [Week 53 — OpenShift for Developers, Networking & Storage](phase-8-week-53.md)
+- [Week 54 — RHACM Foundations: Hub & Managed Clusters](phase-8-week-54.md)
+- [Week 55 — Fleet Provisioning & Lifecycle at Scale](phase-8-week-55.md)
+- [Week 56 — Governance & Policy at Scale](phase-8-week-56.md)
+- [Week 57 — Multicluster Observability, App Lifecycle & DR](phase-8-week-57.md)
+- [Week 58 — Advanced Fleet Operations, Scale & Capstone Exit](phase-8-week-58.md)
+

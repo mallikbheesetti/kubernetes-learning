@@ -16,6 +16,7 @@ For one page per week (topics + KodeKloud/YouTube links + exit check), see [`wee
 | 5 | Observability platform ownership | 33–44 | [phase-5-observability.md](phase-5-observability.md) |
 | 6 | Kubernetes security | 45–50 | [phase-6-security.md](phase-6-security.md) |
 | 7 | Platform engineering: owner & leader | Months 10–12+ | [phase-7-platform-leadership.md](phase-7-platform-leadership.md) |
+| 8 | OpenShift: advanced cluster management (RHACM) | 51–58 | [phase-8-openshift-acm.md](phase-8-openshift-acm.md) |
 
 ## Assumptions
 - ~8–10 hrs/week. Each "Week" block ≈ 8–10 hrs. Adjust dates to your pace.

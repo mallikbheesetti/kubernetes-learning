@@ -9,6 +9,7 @@
 - [ ] Advanced NetworkPolicies: egress, namespace selectors, DNS egress — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
 - [ ] Service discovery patterns; headless services for StatefulSets — [KodeKloud · Kubernetes Networking Deep Dive](https://kodekloud.com/courses/kubernetes-networking)
 - [ ] Troubleshoot DNS and connectivity failures — [KodeKloud · K8s Troubleshooting for App Developers](https://kodekloud.com/courses/kubernetes-troubleshooting-for-application-developers)
+- [ ] **[OpenShift]** Routes & the default IngressController (`oc expose`, `oc create route`) — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4)
 
 ## Deliverable
 - labs/networking/ advanced manifests + NOTES.md
