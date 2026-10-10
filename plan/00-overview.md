@@ -3,6 +3,8 @@
 Week-by-week execution of [`../learning-plan.md`](../learning-plan.md).
 One file per phase. Tick boxes (`[x]`) as you go and commit progress to this repo.
 
+For one page per week (topics + KodeKloud/YouTube links + exit check), see [`weeks/00-index.md`](weeks/00-index.md).
+
 ## Phase Index
 
 | Phase | Focus | Weeks | File |

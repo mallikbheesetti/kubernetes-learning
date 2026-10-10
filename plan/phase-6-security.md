@@ -11,6 +11,14 @@ policies, RBAC, Pod Security, network policies, and Vault-backed secrets.
 
 ---
 
+## Week Pages
+- [Week 45 — Authentication, Authorization & RBAC](weeks/phase-6-week-45.md)
+- [Week 46 — Cluster Hardening & Pod Security](weeks/phase-6-week-46.md)
+- [Week 47 — Network Security & Supply Chain](weeks/phase-6-week-47.md)
+- [Week 48 — Runtime Security & Monitoring](weeks/phase-6-week-48.md)
+- [Week 49 — Policy-as-Code with Kyverno](weeks/phase-6-week-49.md)
+- [Week 50 — Project Integration & Exit](weeks/phase-6-week-50.md)
+
 ## Week 45 — Authentication, Authorization & RBAC
 - [ ] AuthN: users/groups, service accounts, OIDC concepts, certificates
 - [ ] AuthZ: RBAC (roles/bindings), ABAC, node/webhook

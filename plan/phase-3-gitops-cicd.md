@@ -12,6 +12,16 @@ Spinnaker docs (deepen only if used at work).
 
 ---
 
+## Week Pages
+- [Week 15 — Git & Branching Discipline](weeks/phase-3-week-15.md)
+- [Week 16 — GitHub Actions (Modern CI)](weeks/phase-3-week-16.md)
+- [Week 17 — ArgoCD I](weeks/phase-3-week-17.md)
+- [Week 18 — ArgoCD II](weeks/phase-3-week-18.md)
+- [Week 19 — Jenkins (Deepen from Basic)](weeks/phase-3-week-19.md)
+- [Week 20 — Spinnaker (Deepen from Basic)](weeks/phase-3-week-20.md)
+- [Week 21 — Progressive Delivery](weeks/phase-3-week-21.md)
+- [Week 22 — Project Integration & Exit](weeks/phase-3-week-22.md)
+
 ## Week 15 — Git & Branching Discipline
 - [ ] Git recovery/advanced: rebase, cherry-pick, reflog, bisect, worktrees
 - [ ] Trunk-based development, conventional commits, PR workflow

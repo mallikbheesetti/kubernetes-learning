@@ -13,6 +13,20 @@ golden path.
 
 ---
 
+## Week Pages
+- [Week 33 — Metrics Fundamentals & Prometheus I](weeks/phase-5-week-33.md)
+- [Week 34 — Prometheus II: PromQL & Alerts](weeks/phase-5-week-34.md)
+- [Week 35 — Grafana & Dashboards](weeks/phase-5-week-35.md)
+- [Week 36 — SLOs, Error Budgets & Instrumentation](weeks/phase-5-week-36.md)
+- [Week 37 — Logging with Loki I](weeks/phase-5-week-37.md)
+- [Week 38 — Logging with Loki II](weeks/phase-5-week-38.md)
+- [Week 39 — EFK Stack I](weeks/phase-5-week-39.md)
+- [Week 40 — EFK Stack II](weeks/phase-5-week-40.md)
+- [Week 41 — Distributed Tracing & OpenTelemetry](weeks/phase-5-week-41.md)
+- [Week 42 — Splunk: Beyond Log Onboarding I](weeks/phase-5-week-42.md)
+- [Week 43 — Splunk: Beyond Log Onboarding II](weeks/phase-5-week-43.md)
+- [Week 44 — Dynatrace Managed Revision + Project Exit](weeks/phase-5-week-44.md)
+
 ## Week 33 — Metrics Fundamentals & Prometheus I
 - [ ] Observability 3 pillars; metrics types (counter/gauge/histogram/summary)
 - [ ] Prometheus architecture: server, TSDB, retention; pull model

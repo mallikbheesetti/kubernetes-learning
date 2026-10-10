@@ -12,6 +12,17 @@ via a Helm umbrella chart with Kustomize overlays for dev/staging/prod.
 
 ---
 
+## Week Pages
+- [Week 6 — Networking Deep Dive I](weeks/phase-2-week-06.md)
+- [Week 7 — Networking Deep Dive II](weeks/phase-2-week-07.md)
+- [Week 8 — Helm I](weeks/phase-2-week-08.md)
+- [Week 9 — Helm II](weeks/phase-2-week-09.md)
+- [Week 10 — Kustomize](weeks/phase-2-week-10.md)
+- [Week 11 — Kubernetes Operators I](weeks/phase-2-week-11.md)
+- [Week 12 — Kubernetes Operators II](weeks/phase-2-week-12.md)
+- [Week 13 — Autoscaling & Troubleshooting](weeks/phase-2-week-13.md)
+- [Week 14 — Project Integration & Exit](weeks/phase-2-week-14.md)
+
 ## Week 6 — Networking Deep Dive I
 - [ ] CNI fundamentals: plugin model, pod IP allocation, VXLAN vs host-gw
 - [ ] Deploy a CNI (Calico or Cilium) on your kind cluster

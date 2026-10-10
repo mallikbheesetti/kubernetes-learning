@@ -12,6 +12,18 @@ used before and needs revision + tests to prove retention.
 
 ---
 
+## Week Pages
+- [Week 23 — Terraform Fundamentals](weeks/phase-4-week-23.md)
+- [Week 24 — Terraform State & Backends](weeks/phase-4-week-24.md)
+- [Week 25 — Terraform Modules I](weeks/phase-4-week-25.md)
+- [Week 26 — Terraform Modules II](weeks/phase-4-week-26.md)
+- [Week 27 — Testing & CI for IaC](weeks/phase-4-week-27.md)
+- [Week 28 — Advanced Ecosystem](weeks/phase-4-week-28.md)
+- [Week 29 — Terraform + EKS (Real Cluster)](weeks/phase-4-week-29.md)
+- [Week 30 — Ansible Revision I](weeks/phase-4-week-30.md)
+- [Week 31 — Ansible Revision II + Testing](weeks/phase-4-week-31.md)
+- [Week 32 — Project Integration & Exit](weeks/phase-4-week-32.md)
+
 ## Week 23 — Terraform Fundamentals (Refresh + Solidify)
 - [ ] HCL syntax; providers, resources, data sources, variables, outputs
 - [ ] `init/plan/apply/destroy`; dependency graph

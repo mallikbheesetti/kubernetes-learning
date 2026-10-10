@@ -10,6 +10,15 @@ before going deep. Treat this as a *refresh*, not first-time learning.
 
 ---
 
+## Week Pages
+- [Week 1 — Environment + Fundamentals Refresh](weeks/phase-1-week-01.md)
+- [Week 2 — Workloads & Controllers](weeks/phase-1-week-02.md)
+- [Week 3 — Networking, Services & Config](weeks/phase-1-week-03.md)
+- [Week 4 — Scheduling, Storage & Troubleshooting](weeks/phase-1-week-04.md)
+- [Week 5 — Internals, Backup & Cold Mock CKA](weeks/phase-1-week-05.md)
+
+> Each week page lists its topics with primary **KodeKloud** course links (YouTube search as fallback) plus that week's deliverable and exit check.
+
 ## Week 1 — Environment + Fundamentals Refresh
 - [ ] Install `kubectl`, `kind`, `k3d`, `k9s`, `helm`; set up aliases + shell completion
 - [ ] Spin up a local multi-node cluster (1 control-plane + 2 workers) with kind

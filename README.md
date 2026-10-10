@@ -15,6 +15,7 @@ platform engineering, and AI/ML on Kubernetes).
   - [Phase 5 — Observability ownership](plan/phase-5-observability.md) (weeks 33–44)
   - [Phase 6 — Kubernetes security](plan/phase-6-security.md) (weeks 45–50)
   - [Phase 7 — Platform engineering leadership](plan/phase-7-platform-leadership.md) (ongoing)
+- [`plan/weeks/`](plan/weeks/00-index.md) — one page per week with per-topic course links + exit checks
 - [`resources/kodekloud-courses.md`](resources/kodekloud-courses.md) — curated KodeKloud course catalog
 
 ## Progress

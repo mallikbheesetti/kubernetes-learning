@@ -1,0 +1,17 @@
+# Phase 4 · Week 26 — Terraform Modules II
+
+[← Back to Phase 4](../phase-4-iac.md) | [Weeks index](00-index.md) | [Overview](../00-overview.md)
+
+**Goal:** Compose EKS + IAM modules.
+
+## Topics
+- [ ] Build eks and iam modules; wire them together — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
+- [ ] Providers & aliases; multi-region; provisioners (and why to avoid) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course)
+
+## Deliverable
+- modules/eks/, modules/iam/, root composition
+
+## Exit check
+- [ ] Compose modules into a working stack
+
+> Mark topics `[x]` as you finish them and commit this page to track progress.

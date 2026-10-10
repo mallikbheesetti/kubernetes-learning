@@ -10,6 +10,14 @@ it's continuous and partly non-technical.
 
 ---
 
+## Module Pages
+- [Module A — Platform as a Product](weeks/phase-7-module-a-platform-as-a-product.md)
+- [Module B — Internal Developer Platform (Tooling)](weeks/phase-7-module-b-idp-tooling.md)
+- [Module C — Reliability & Operations (SRE)](weeks/phase-7-module-c-reliability-sre.md)
+- [Module D — Governance, Security & FinOps](weeks/phase-7-module-d-governance-finops.md)
+- [Module E — Leadership & Team Management](weeks/phase-7-module-e-leadership.md)
+- [Capstone — Platform-in-a-Box](weeks/phase-7-capstone.md)
+
 ## Track A — Platform as a Product (Technical Strategy)
 - [ ] Define what a platform is: product, not project; internal customers
 - [ ] Golden paths / paved roads; self-service vs ticketing
