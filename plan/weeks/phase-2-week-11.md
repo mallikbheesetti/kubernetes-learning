@@ -5,10 +5,10 @@
 **Goal:** Understand the operator pattern and CRDs.
 
 ## Topics
-- [ ] Operator pattern, CRDs, controllers, reconciliation loop — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Docs](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
-- [ ] Install an existing operator (e.g., cert-manager or a DB operator) — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Docs](https://cert-manager.io/docs/)
-- [ ] CRDs and kubectl get crd, status/conditions — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Docs](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
-- [ ] **[OpenShift]** OLM & OperatorHub: `Subscription`, `ClusterServiceVersion`, `ClusterOperators` — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index)
+- [ ] Operator pattern, CRDs, controllers, reconciliation loop — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Video](https://www.youtube.com/watch?v=ha3LjlD6g7g) — [Video 2](https://www.youtube.com/watch?v=i9V4oCa5f9I) — [Docs](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+- [ ] Install an existing operator (e.g., cert-manager or a DB operator) — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Video](https://www.youtube.com/watch?v=hoLUigg4V18) — [Video 2](https://www.youtube.com/watch?v=KAa2l0oycOk) — [Docs](https://cert-manager.io/docs/)
+- [ ] CRDs and kubectl get crd, status/conditions — [KodeKloud · Kubernetes Operators](https://kodekloud.com/courses/kubernetes-operators) — [Video](https://www.youtube.com/watch?v=3huz7lRzUQo) — [Video 2](https://www.youtube.com/watch?v=notRETiHQew) — [Docs](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
+- [ ] **[OpenShift]** OLM & OperatorHub: `Subscription`, `ClusterServiceVersion`, `ClusterOperators` — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Video](https://www.youtube.com/watch?v=5PorcMTYZTo) — [Video 2](https://www.youtube.com/watch?v=aA6aEOfSG9g) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/updating_clusters/index)
 
 ## Deliverable
 - operator installed + CR managed (documented)

@@ -5,10 +5,10 @@
 **Goal:** Guardrails, tenancy and cost.
 
 ## Topics
-- [ ] Guardrails vs gates (policy-as-code, link Phase 6) — [YouTube (search)](https://www.youtube.com/results?search_query=policy%20as%20code%20kubernetes%20guardrails) — [Docs](https://kyverno.io/docs/)
-- [ ] Multi-tenancy models (logical/physical isolation) — [YouTube (search)](https://www.youtube.com/results?search_query=kubernetes%20multi%20tenancy%20models) — [Docs](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
-- [ ] FinOps: cost allocation, showback/chargeback, rightsizing — [YouTube (search)](https://www.youtube.com/results?search_query=kubernetes%20finops%20cost%20allocation) — [Docs](https://www.finops.org/)
-- [ ] Compliance mapping to platform standards — [YouTube (search)](https://www.youtube.com/results?search_query=kubernetes%20compliance%20controls)
+- [ ] Guardrails vs gates (policy-as-code, link Phase 6) — [Video](https://www.youtube.com/watch?v=J6EHaMEZ00k) — [Docs](https://kyverno.io/docs/)
+- [ ] Multi-tenancy models (logical/physical isolation) — [Video](https://www.youtube.com/watch?v=trFUfdYL4Xw) — [Docs](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
+- [ ] FinOps: cost allocation, showback/chargeback, rightsizing — [Video](https://www.youtube.com/watch?v=UbMjxagpZl4) — [Docs](https://www.finops.org/)
+- [ ] Compliance mapping to platform standards — [Video](https://www.youtube.com/watch?v=fyoulUaiGYA)
 
 ## Deliverable
 - governance + FinOps section in the charter

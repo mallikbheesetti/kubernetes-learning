@@ -5,10 +5,10 @@
 **Goal:** Manage state safely.
 
 ## Topics
-- [ ] Remote backends (S3 + DynamoDB lock); state locking — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/settings/backends/s3)
-- [ ] State operations: import, mv, rm, taint, state pull/push — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/state/import)
-- [ ] Workspaces vs directory-per-env — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/state/workspaces)
-- [ ] Secrets handling; sensitive values; .tfvars strategy — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/values/variables)
+- [ ] Remote backends (S3 + DynamoDB lock); state locking — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=o04xfWEouKM) — [Docs](https://developer.hashicorp.com/terraform/language/settings/backends/s3)
+- [ ] State operations: import, mv, rm, taint, state pull/push — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=6tcR4TxVRTM) — [Docs](https://developer.hashicorp.com/terraform/language/state/import)
+- [ ] Workspaces vs directory-per-env — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=W_wW_NNgxf4) — [Docs](https://developer.hashicorp.com/terraform/language/state/workspaces)
+- [ ] Secrets handling; sensitive values; .tfvars strategy — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=3N0tGKwvBdA) — [Docs](https://developer.hashicorp.com/terraform/language/values/variables)
 
 ## Deliverable
 - remote backend configured for your modules

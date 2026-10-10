@@ -5,9 +5,9 @@
 **Goal:** Rock-solid Git and collaboration workflows.
 
 ## Topics
-- [ ] Git recovery/advanced: rebase, cherry-pick, reflog, bisect, worktrees — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Docs](https://git-scm.com/doc)
-- [ ] Trunk-based development, conventional commits, PR workflow — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Docs](https://www.conventionalcommits.org/)
-- [ ] Branch protection, CODEOWNERS, signed commits — [KodeKloud · GitHub Administration Certification](https://kodekloud.com/courses/github-administration-certification) — [Docs](https://docs.github.com/en)
+- [ ] Git recovery/advanced: rebase, cherry-pick, reflog, bisect, worktrees — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Video](https://www.youtube.com/watch?v=qsTthZi23VE) — [Video 2](https://www.youtube.com/watch?v=XuDHf1lKF7k) — [Lab](https://kodekloud.com/studio/labs/git) — [Docs](https://git-scm.com/doc)
+- [ ] Trunk-based development, conventional commits, PR workflow — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Video](https://www.youtube.com/watch?v=GQQqf-C2ha4) — [Video 2](https://www.youtube.com/watch?v=qA1oqIYyml4) — [Docs](https://www.conventionalcommits.org/)
+- [ ] Branch protection, CODEOWNERS, signed commits — [KodeKloud · GitHub Administration Certification](https://kodekloud.com/courses/github-administration-certification) — [Video](https://www.youtube.com/watch?v=HWRzJKO7C0o) — [Video 2](https://www.youtube.com/watch?v=4166ExAnxmo) — [Docs](https://docs.github.com/en)
 
 ## Deliverable
 - GIT_RECOVERY.md drill notes

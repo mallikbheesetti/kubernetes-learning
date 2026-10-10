@@ -5,10 +5,10 @@
 **Goal:** Detect and audit runtime threats.
 
 ## Topics
-- [ ] Threat model; runtime detection (Falco) concepts + deploy — [YouTube (search)](https://www.youtube.com/results?search_query=falco%20runtime%20security%20kubernetes) — [Docs](https://falco.org/docs/)
-- [ ] Audit logging (API server audit policy) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
-- [ ] Secrets: encryption at rest; external secrets; Vault integration — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://developer.hashicorp.com/vault/docs)
-- [ ] **[OpenShift]** OpenShift OAuth/identity providers, Compliance Operator, RHACS — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20security%20oauth%20scc%20compliance) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/security_and_compliance/compliance-operator)
+- [ ] Threat model; runtime detection (Falco) concepts + deploy — [Video](https://www.youtube.com/watch?v=C8ephsD1_fM) — [Video 2](https://www.youtube.com/watch?v=058aWCXQ3dE) — [Docs](https://falco.org/docs/)
+- [ ] Audit logging (API server audit policy) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=EnK1P0jYx7A) — [Video 2](https://www.youtube.com/watch?v=raJRLmGb9Is) — [Docs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
+- [ ] Secrets: encryption at rest; external secrets; Vault integration — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=CF6ARIXdA4A) — [Video 2](https://www.youtube.com/watch?v=RQPz4YlmsCs) — [Docs](https://developer.hashicorp.com/vault/docs)
+- [ ] **[OpenShift]** OpenShift OAuth/identity providers, Compliance Operator, RHACS — [Video](https://www.youtube.com/watch?v=eFxFtUpAT9s) — [Video 2](https://www.youtube.com/watch?v=_eiEjyprKHg) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/security_and_compliance/compliance-operator)
 
 ## Deliverable
 - Falco rules + audit policy + Vault secrets injection

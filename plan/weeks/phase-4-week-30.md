@@ -5,9 +5,9 @@
 **Goal:** Re-establish Ansible fluency.
 
 ## Topics
-- [ ] Inventory, modules, playbooks, variables, facts, handlers, Jinja2 templates — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Docs](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_templating.html)
-- [ ] Idempotency; --check/--diff; vault for secrets — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Docs](https://developer.hashicorp.com/vault/docs)
-- [ ] Re-run 5 lab exercises from memory — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
+- [ ] Inventory, modules, playbooks, variables, facts, handlers, Jinja2 templates — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Video](https://www.youtube.com/watch?v=1id6ERvfozo) — [Docs](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_templating.html)
+- [ ] Idempotency; --check/--diff; vault for secrets — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Video](https://www.youtube.com/watch?v=NxeaqcdmGGk) — [Video 2](https://www.youtube.com/watch?v=qoezEf6Mwzw) — [Docs](https://developer.hashicorp.com/vault/docs)
+- [ ] Re-run 5 lab exercises from memory — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Video](https://www.youtube.com/watch?v=Z01b9QZG0D0)
 
 ## Deliverable
 - a server-config playbook

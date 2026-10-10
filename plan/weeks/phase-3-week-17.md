@@ -5,10 +5,10 @@
 **Goal:** Install ArgoCD and sync an app from Git.
 
 ## Topics
-- [ ] GitOps principles; ArgoCD architecture (repo-server, controller, redis) — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20architecture%20gitops) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] Install ArgoCD; connect a Git repo; create an Application — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20install%20tutorial) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] Sync policies: auto-sync, prune, self-heal — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20sync%20policy%20self%20heal) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] **[OpenShift]** OpenShift GitOps operator (ArgoCD-based) for cluster + app config — [YouTube (search)](https://www.youtube.com/results?search_query=openshift%20gitops%20argocd%20operator) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/gitops)
+- [ ] GitOps principles; ArgoCD architecture (repo-server, controller, redis) — [Video](https://www.youtube.com/watch?v=GlG6Xr2HH1g) — [Video 2](https://www.youtube.com/watch?v=0dTRGi1oCfU) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Install ArgoCD; connect a Git repo; create an Application — [Video](https://www.youtube.com/watch?v=8AJlVQy6Cx0) — [Video 2](https://www.youtube.com/watch?v=MeU5_k9ssrs) — [Lab](https://argo-cd.readthedocs.io/en/stable/getting_started/) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Sync policies: auto-sync, prune, self-heal — [Video](https://www.youtube.com/watch?v=1XvqsWyunDw) — [Video 2](https://www.youtube.com/watch?v=8PGOWrn1YW4) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] **[OpenShift]** OpenShift GitOps operator (ArgoCD-based) for cluster + app config — [Video](https://www.youtube.com/watch?v=pOGMSOotSn0) — [Video 2](https://www.youtube.com/watch?v=i_uoJwKYGZE) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/gitops)
 
 ## Deliverable
 - ArgoCD installed + one app synced from Git

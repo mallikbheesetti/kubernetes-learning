@@ -5,10 +5,10 @@
 **Goal:** Understand Spinnaker pipelines and deployment strategies.
 
 ## Topics
-- [ ] Spinnaker concepts: applications, pipelines, stages — [YouTube (search)](https://www.youtube.com/results?search_query=spinnaker%20pipelines%20tutorial) — [Docs](https://spinnaker.io/docs/)
-- [ ] Deployment strategies: red/black, rolling, canary — [YouTube (search)](https://www.youtube.com/results?search_query=spinnaker%20deployment%20strategies%20canary) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-- [ ] Managed delivery / declarative pipelines — [YouTube (search)](https://www.youtube.com/results?search_query=spinnaker%20managed%20delivery) — [Docs](https://www.jenkins.io/doc/)
-- [ ] Compare Spinnaker vs ArgoCD/GitOps (1-page write-up) — [YouTube (search)](https://www.youtube.com/results?search_query=spinnaker%20vs%20argocd) — [Docs](https://spinnaker.io/docs/)
+- [ ] Spinnaker concepts: applications, pipelines, stages — [Video](https://www.youtube.com/watch?v=eywIY8fqTgc) — [Video 2](https://www.youtube.com/watch?v=NBeUAjlcVJw) — [Docs](https://spinnaker.io/docs/)
+- [ ] Deployment strategies: red/black, rolling, canary — [Video](https://www.youtube.com/watch?v=lfn3qmZ_Qlw) — [Video 2](https://www.youtube.com/watch?v=jExQ_YhqRaM) — [Docs](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [ ] Managed delivery / declarative pipelines — [Video](https://www.youtube.com/watch?v=3F5NAlo40ww) — [Video 2](https://www.youtube.com/watch?v=gXwii-PtulM) — [Docs](https://www.jenkins.io/doc/)
+- [ ] Compare Spinnaker vs ArgoCD/GitOps (1-page write-up) — [Video](https://www.youtube.com/watch?v=rn1sLMPcyKc) — [Video 2](https://www.youtube.com/watch?v=Pt8SQdJS6S0) — [Docs](https://spinnaker.io/docs/)
 
 ## Deliverable
 - notes comparing tools + sample pipeline (local or diagram)

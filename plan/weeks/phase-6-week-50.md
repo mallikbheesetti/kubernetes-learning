@@ -5,9 +5,9 @@
 **Goal:** Assemble the hardened baseline.
 
 ## Topics
-- [ ] Combine: hardened baseline + RBAC + PSS + NetworkPolicies + Kyverno + Vault — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://developer.hashicorp.com/vault/docs)
-- [ ] Run a kube-bench scan and remediate top findings — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://github.com/aquasecurity/kube-bench)
-- [ ] Document the security baseline as a platform standard — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno)
+- [ ] Combine: hardened baseline + RBAC + PSS + NetworkPolicies + Kyverno + Vault — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=d9xfB5qaOfg) — [Docs](https://developer.hashicorp.com/vault/docs)
+- [ ] Run a kube-bench scan and remediate top findings — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=DJILosOmapA) — [Docs](https://github.com/aquasecurity/kube-bench)
+- [ ] Document the security baseline as a platform standard — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Video](https://www.youtube.com/watch?v=oxL5GJm6U3Q)
 
 ## Deliverable
 - projects/hardened-cluster/ + security standard doc

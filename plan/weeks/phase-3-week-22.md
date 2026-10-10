@@ -5,9 +5,9 @@
 **Goal:** Full CI -> image -> GitOps -> cluster flow.
 
 ## Topics
-- [ ] Wire CI (Actions) -> image -> ArgoCD auto-sync -> cluster — [YouTube (search)](https://www.youtube.com/results?search_query=gitops%20ci%20cd%20argocd%20github%20actions) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] Add rollout strategy + rollback docs — [YouTube (search)](https://www.youtube.com/results?search_query=argo%20rollouts%20rollback)
-- [ ] Write architecture + onboarding doc for a new service — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners)
+- [ ] Wire CI (Actions) -> image -> ArgoCD auto-sync -> cluster — [Video](https://www.youtube.com/watch?v=LgBnbmfsIdA) — [Video 2](https://www.youtube.com/watch?v=iGJxNtjj_VE) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Add rollout strategy + rollback docs — [Video](https://www.youtube.com/watch?v=f40Dl1_V6lE) — [Video 2](https://www.youtube.com/watch?v=jdV07Rt4aeA)
+- [ ] Write architecture + onboarding doc for a new service — [KodeKloud · Git for Beginners](https://kodekloud.com/courses/git-for-beginners) — [Video](https://www.youtube.com/watch?v=d6Cs11AZqV4) — [Video 2](https://www.youtube.com/watch?v=7o_PgOQWqdY)
 
 ## Deliverable
 - projects/gitops-platform/ + README

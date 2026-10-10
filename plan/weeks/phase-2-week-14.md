@@ -5,9 +5,9 @@
 **Goal:** Ship the umbrella app with overlays.
 
 ## Topics
-- [ ] Assemble API + worker + DB into one Helm umbrella chart + Kustomize overlays — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
-- [ ] Add probes, resources, HPA, Ingress, Config/Secrets — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Docs](https://kubernetes.io/docs/concepts/configuration/secret/)
-- [ ] Document architecture + deploy/rollback steps — [YouTube (search)](https://www.youtube.com/results?search_query=helm%20kustomize%20multi%20environment)
+- [ ] Assemble API + worker + DB into one Helm umbrella chart + Kustomize overlays — [KodeKloud · Helm for Beginners](https://kodekloud.com/courses/helm-for-beginners) — [Video](https://www.youtube.com/watch?v=ZvG8rfJ4XxM) — [Video 2](https://www.youtube.com/watch?v=bx-Q_m7b1MI) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
+- [ ] Add probes, resources, HPA, Ingress, Config/Secrets — [KodeKloud · Kustomize](https://kodekloud.com/courses/kustomize) — [Video](https://www.youtube.com/watch?v=x2e6pIBLKzw) — [Video 2](https://www.youtube.com/watch?v=lKH1K5R3kqg) — [Docs](https://kubernetes.io/docs/concepts/configuration/secret/)
+- [ ] Document architecture + deploy/rollback steps — [Video](https://www.youtube.com/watch?v=JDoRXJNr4es)
 
 ## Deliverable
 - projects/helm-umbrella-app/

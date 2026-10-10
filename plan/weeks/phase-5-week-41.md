@@ -5,10 +5,10 @@
 **Goal:** End-to-end traces.
 
 ## Topics
-- [ ] Tracing concepts: spans, context propagation, sampling — [YouTube (search)](https://www.youtube.com/results?search_query=distributed%20tracing%20explained) — [Docs](https://opentelemetry.io/docs/concepts/signals/traces/)
-- [ ] OTel Collector (receivers/processors/exporters); OTLP — [YouTube (search)](https://www.youtube.com/results?search_query=opentelemetry%20collector%20tutorial) — [Docs](https://opentelemetry.io/docs/collector/)
-- [ ] Export traces to Tempo/Jaeger; correlate with logs/metrics — [YouTube (search)](https://www.youtube.com/results?search_query=grafana%20tempo%20tracing%20tutorial) — [Docs](https://www.jaegertracing.io/docs/)
-- [ ] **[OpenShift]** Distributed Tracing (Tempo/Jaeger) via OpenTelemetry on OCP — [OpenShift docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18)
+- [ ] Tracing concepts: spans, context propagation, sampling — [Video](https://www.youtube.com/watch?v=Of_ygNU_Cbw) — [Docs](https://opentelemetry.io/docs/concepts/signals/traces/)
+- [ ] OTel Collector (receivers/processors/exporters); OTLP — [Video](https://www.youtube.com/watch?v=_CJrFW_yjRo) — [Docs](https://opentelemetry.io/docs/collector/)
+- [ ] Export traces to Tempo/Jaeger; correlate with logs/metrics — [Video](https://www.youtube.com/watch?v=Oa-zqv-EBpw) — [Video 2](https://www.youtube.com/watch?v=ZIN7H00ulQw) — [Docs](https://www.jaegertracing.io/docs/)
+- [ ] **[OpenShift]** Distributed Tracing (Tempo/Jaeger) via OpenTelemetry on OCP — [OpenShift docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18) — [Video](https://www.youtube.com/watch?v=TmC7Ha3Qqk4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18)
 
 ## Deliverable
 - end-to-end trace for the app in Tempo/Jaeger

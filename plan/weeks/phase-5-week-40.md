@@ -5,9 +5,9 @@
 **Goal:** Kibana dashboards and stack operations.
 
 ## Topics
-- [ ] Kibana: index patterns, dashboards, saved searches — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/kibana/current/)
-- [ ] Scaling, monitoring, and securing the EFK stack — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
-- [ ] Compare EFK vs Loki (cost, ops, use cases) — write-up — [YouTube (search)](https://www.youtube.com/results?search_query=efk%20vs%20loki%20comparison) — [Docs](https://grafana.com/docs/loki/latest/)
+- [ ] Kibana: index patterns, dashboards, saved searches — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Video](https://www.youtube.com/watch?v=wT-6RXA3K8w) — [Docs](https://www.elastic.co/guide/en/kibana/current/)
+- [ ] Scaling, monitoring, and securing the EFK stack — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Video](https://www.youtube.com/watch?v=xAgdHLsqKRI) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
+- [ ] Compare EFK vs Loki (cost, ops, use cases) — write-up — [Video](https://www.youtube.com/watch?v=BhzDI3B3-aE) — [Docs](https://grafana.com/docs/loki/latest/)
 
 ## Deliverable
 - Kibana dashboards + comparison notes

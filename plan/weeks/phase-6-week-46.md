@@ -5,10 +5,10 @@
 **Goal:** Harden the cluster and workloads.
 
 ## Topics
-- [ ] API server/etcd/kubelet hardening flags; CIS benchmark scan (kube-bench) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://github.com/aquasecurity/kube-bench)
-- [ ] Pod Security Admission (baseline/restricted); securityContext — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
-- [ ] seccomp, AppArmor/SELinux, capability dropping, read-only FS — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Docs](https://kubernetes.io/docs/concepts/security/)
-- [ ] **[OpenShift]** Security Context Constraints (SCC) & default service accounts — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/authentication_and_authorization/index)
+- [ ] API server/etcd/kubelet hardening flags; CIS benchmark scan (kube-bench) — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=yt5KuYjMPvg) — [Video 2](https://www.youtube.com/watch?v=s6nZ_6XSQVQ) — [Docs](https://github.com/aquasecurity/kube-bench)
+- [ ] Pod Security Admission (baseline/restricted); securityContext — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=bSXi2wF-FKY) — [Docs](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+- [ ] seccomp, AppArmor/SELinux, capability dropping, read-only FS — [KodeKloud · CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks) — [Video](https://www.youtube.com/watch?v=OxkMFSKiZYE) — [Video 2](https://www.youtube.com/watch?v=in_P293aXV0) — [Docs](https://kubernetes.io/docs/concepts/security/)
+- [ ] **[OpenShift]** Security Context Constraints (SCC) & default service accounts — [KodeKloud · OpenShift 4](https://kodekloud.com/courses/openshift-4) — [Video](https://www.youtube.com/watch?v=VtIxFh6cO0Q) — [Video 2](https://www.youtube.com/watch?v=0sUlF617BOQ) — [Docs](https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/authentication_and_authorization/index)
 
 ## Deliverable
 - restricted-namespace enforcement demonstration

@@ -5,9 +5,9 @@
 **Goal:** Author reusable modules.
 
 ## Topics
-- [ ] Module structure; inputs/outputs; versioning; registry — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/language/modules)
-- [ ] Composition; count vs for_each — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
-- [ ] Build a vpc module — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [ ] Module structure; inputs/outputs; versioning; registry — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=eAipIkbVSco) — [Docs](https://developer.hashicorp.com/terraform/language/modules)
+- [ ] Composition; count vs for_each — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=6LbXPPEeKXg) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Build a vpc module — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=T8iTN1UGVTE) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Deliverable
 - modules/vpc/

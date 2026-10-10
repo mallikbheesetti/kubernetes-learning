@@ -5,8 +5,8 @@
 **Goal:** Finalize IaC deliverables.
 
 ## Topics
-- [ ] Finalize module library + tests; Ansible role collection + CI — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://docs.ansible.com/ansible/latest/)
-- [ ] Document usage; add examples; tag a release — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course)
+- [ ] Finalize module library + tests; Ansible role collection + CI — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=GmNH2Z3V3YM) — [Video 2](https://www.youtube.com/watch?v=93urFkaJQ44) — [Docs](https://docs.ansible.com/ansible/latest/)
+- [ ] Document usage; add examples; tag a release — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Video](https://www.youtube.com/watch?v=4wPjo5C-v8Y)
 
 ## Deliverable
 - projects/tf-modules/ and projects/ansible-roles/

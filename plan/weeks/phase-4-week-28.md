@@ -5,9 +5,9 @@
 **Goal:** Terragrunt / OpenTofu / TFC.
 
 ## Topics
-- [ ] Terragrunt for DRY multi-env — [YouTube (search)](https://www.youtube.com/results?search_query=terragrunt%20tutorial) — [Docs](https://terragrunt.gruntwork.io/docs/)
-- [ ] OpenTofu migration considerations — [YouTube (search)](https://www.youtube.com/results?search_query=opentofu%20migration%20from%20terraform) — [Docs](https://opentofu.org/docs/)
-- [ ] Terraform Cloud/Enterprise vs OSS (state, policy, runs) — [YouTube (search)](https://www.youtube.com/results?search_query=terraform%20cloud%20enterprise%20overview) — [Docs](https://developer.hashicorp.com/terraform/cloud-docs)
+- [ ] Terragrunt for DRY multi-env — [Video](https://www.youtube.com/watch?v=yduHaOj3XMg) — [Docs](https://terragrunt.gruntwork.io/docs/)
+- [ ] OpenTofu migration considerations — [Video](https://www.youtube.com/watch?v=xstFUuFt5Q0) — [Docs](https://opentofu.org/docs/)
+- [ ] Terraform Cloud/Enterprise vs OSS (state, policy, runs) — [Video](https://www.youtube.com/watch?v=8S4N94-yAHA) — [Docs](https://developer.hashicorp.com/terraform/cloud-docs)
 
 ## Deliverable
 - notes + at least one Terragrunt config

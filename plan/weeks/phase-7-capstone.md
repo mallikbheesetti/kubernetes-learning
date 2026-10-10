@@ -5,10 +5,10 @@
 **Goal:** Assemble the end-to-end reference architecture.
 
 ## Topics
-- [ ] Assemble EKS + Terraform + ArgoCD + Helm/Kustomize + observability + security — [YouTube (search)](https://www.youtube.com/results?search_query=internal%20developer%20platform%20reference%20architecture) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
-- [ ] Add a golden-path template: 'new service in 30 minutes' — [YouTube (search)](https://www.youtube.com/results?search_query=backstage%20golden%20path%20template) — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
-- [ ] Write ADRs for key choices — [YouTube (search)](https://www.youtube.com/results?search_query=architecture%20decision%20records%20adr) — [Docs](https://adr.github.io/)
-- [ ] Produce a leadership deck: vision, roadmap, team model, KPIs — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20engineering%20roadmap%20kpis)
+- [ ] Assemble EKS + Terraform + ArgoCD + Helm/Kustomize + observability + security — [Video](https://www.youtube.com/watch?v=AimSwK8Mw-U) — [Docs](https://kubectl.docs.kubernetes.io/references/kustomize/)
+- [ ] Add a golden-path template: 'new service in 30 minutes' — [Video](https://www.youtube.com/watch?v=fMppz0A0LjY) — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
+- [ ] Write ADRs for key choices — [Video](https://www.youtube.com/watch?v=7Gqn2dbt_JY) — [Docs](https://adr.github.io/)
+- [ ] Produce a leadership deck: vision, roadmap, team model, KPIs — [Video](https://www.youtube.com/watch?v=61J-jaJB_Ng)
 
 ## Deliverable
 - projects/platform-reference/ + docs/platform-charter.md + deck

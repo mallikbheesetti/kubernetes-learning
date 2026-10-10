@@ -5,11 +5,11 @@
 **Goal:** Define the platform as a product with measurable outcomes.
 
 ## Topics
-- [ ] What a platform is: product, not project; internal customers — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20as%20a%20product%20internal%20developer%20platform)
-- [ ] Golden paths / paved roads; self-service vs ticketing — [YouTube (search)](https://www.youtube.com/results?search_query=platform%20engineering%20golden%20path) — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
-- [ ] Team Topologies: platform, stream-aligned, enabling teams — [YouTube (search)](https://www.youtube.com/results?search_query=team%20topologies%20platform%20team) — [Docs](https://teamtopologies.com/key-concepts)
-- [ ] Measuring platform success (adoption, time-to-onboard, DORA, dev NPS) — [YouTube (search)](https://www.youtube.com/results?search_query=dora%20metrics%20platform%20engineering) — [Docs](https://dora.dev/)
-- [ ] Build vs buy; standardization vs flexibility tensions — [YouTube (search)](https://www.youtube.com/results?search_query=build%20vs%20buy%20internal%20developer%20platform)
+- [ ] What a platform is: product, not project; internal customers — [Video](https://www.youtube.com/watch?v=b8YHCDMxqfg)
+- [ ] Golden paths / paved roads; self-service vs ticketing — [Video](https://www.youtube.com/watch?v=WmTa_vxn0oU) — [Docs](https://sre.google/sre-book/monitoring-distributed-systems/)
+- [ ] Team Topologies: platform, stream-aligned, enabling teams — [Video](https://www.youtube.com/watch?v=XpBpgaKhaF8) — [Docs](https://teamtopologies.com/key-concepts)
+- [ ] Measuring platform success (adoption, time-to-onboard, DORA, dev NPS) — [Video](https://www.youtube.com/watch?v=TSi5V_T2hB8) — [Docs](https://dora.dev/)
+- [ ] Build vs buy; standardization vs flexibility tensions — [Video](https://www.youtube.com/watch?v=sGOamUc0zM0)
 
 ## Deliverable
 - docs/platform-charter.md § vision + success metrics

@@ -5,9 +5,9 @@
 **Goal:** Refresh Dynatrace Managed and finalize the platform.
 
 ## Topics
-- [ ] Dynatrace Managed architecture: cluster nodes, ActiveGate, OneAgent — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20architecture) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
-- [ ] HA setup, upgrades, backups, DR — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20high%20availability%20upgrade) — [Docs](https://velero.io/docs/)
-- [ ] Metrics/entities/tags/dashboards; alerting profiles — [YouTube (search)](https://www.youtube.com/results?search_query=dynatrace%20managed%20dashboards%20alerting) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
+- [ ] Dynatrace Managed architecture: cluster nodes, ActiveGate, OneAgent — [Video](https://www.youtube.com/watch?v=qo6vjyE-Ak0) — [Video 2](https://www.youtube.com/watch?v=I9VVgzFaRl8) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
+- [ ] HA setup, upgrades, backups, DR — [Video](https://www.youtube.com/watch?v=WGU1XJY7rXA) — [Docs](https://velero.io/docs/)
+- [ ] Metrics/entities/tags/dashboards; alerting profiles — [Video](https://www.youtube.com/watch?v=UrApwUgf0RI) — [Docs](https://docs.dynatrace.com/docs/discover-dynatrace)
 
 ## Deliverable
 - Dynatrace revision notes + observability platform complete

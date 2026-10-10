@@ -5,9 +5,9 @@
 **Goal:** Multi-env GitOps with app-of-apps and revals.
 
 ## Topics
-- [ ] App-of-apps / ApplicationSets for multi-env — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20app%20of%20apps%20applicationset) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] Sync waves & hooks; health checks; drift detection — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20sync%20waves%20drift%20detection) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
-- [ ] Projects, RBAC, SSO integration concepts — [YouTube (search)](https://www.youtube.com/results?search_query=argocd%20rbac%20sso) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] App-of-apps / ApplicationSets for multi-env — [Video](https://www.youtube.com/watch?v=01chRZSZFcY) — [Video 2](https://www.youtube.com/watch?v=FS__bq6I4m0) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Sync waves & hooks; health checks; drift detection — [Video](https://www.youtube.com/watch?v=usj6RP6uzUc) — [Video 2](https://www.youtube.com/watch?v=SrgaMOuiqyY) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] Projects, RBAC, SSO integration concepts — [Video](https://www.youtube.com/watch?v=GAbCUmdMOHo) — [Video 2](https://www.youtube.com/watch?v=NPIo1c5LXI8) — [Docs](https://argo-cd.readthedocs.io/en/stable/)
 
 ## Deliverable
 - app-of-apps managing the umbrella app across overlays

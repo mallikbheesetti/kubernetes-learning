@@ -5,9 +5,9 @@
 **Goal:** Visualize as code.
 
 ## Topics
-- [ ] Grafana data sources, variables, transformations — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
-- [ ] Build dashboards (USE/RED methods) for app + cluster — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
-- [ ] Provisioning as code (dashboards + datasources in Git) — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
+- [ ] Grafana data sources, variables, transformations — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Video](https://www.youtube.com/watch?v=mMUJ3iwIYwc) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
+- [ ] Build dashboards (USE/RED methods) for app + cluster — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Video](https://www.youtube.com/watch?v=Fpw4Rwpb160) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
+- [ ] Provisioning as code (dashboards + datasources in Git) — [KodeKloud · Grafana & Prometheus](https://kodekloud.com/courses/grafana-prometheus-for-metrics-driven-observability) — [Video](https://www.youtube.com/watch?v=sGHKY0VmbLw) — [Docs](https://grafana.com/docs/grafana/latest/dashboards/)
 
 ## Deliverable
 - dashboards committed as JSON/provisioning

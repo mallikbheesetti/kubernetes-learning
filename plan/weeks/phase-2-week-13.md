@@ -5,9 +5,9 @@
 **Goal:** Scale workloads and debug with a modern toolkit.
 
 ## Topics
-- [ ] HPA (metrics-server), VPA concepts, cluster autoscaler concepts — [KodeKloud · Kubernetes Autoscaling](https://kodekloud.com/courses/kubernetes-autoscaling) — [Docs](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-- [ ] KEDA event-driven scaling basics — [KodeKloud · Kubernetes Autoscaling](https://kodekloud.com/courses/kubernetes-autoscaling) — [Docs](https://keda.sh/docs/)
-- [ ] Troubleshooting toolkit: k9s, ephemeral containers, kubectl debug — [KodeKloud · K8s Troubleshooting for App Developers](https://kodekloud.com/courses/kubernetes-troubleshooting-for-application-developers) — [Docs](https://k9scli.io/)
+- [ ] HPA (metrics-server), VPA concepts, cluster autoscaler concepts — [KodeKloud · Kubernetes Autoscaling](https://kodekloud.com/courses/kubernetes-autoscaling) — [Video](https://www.youtube.com/watch?v=afUL5jGoLx0) — [Video 2](https://www.youtube.com/watch?v=hsJ2qtwoWZw) — [Docs](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [ ] KEDA event-driven scaling basics — [KodeKloud · Kubernetes Autoscaling](https://kodekloud.com/courses/kubernetes-autoscaling) — [Video](https://www.youtube.com/watch?v=3lcaawKAv6s) — [Video 2](https://www.youtube.com/watch?v=LwC71u2DyD0) — [Docs](https://keda.sh/docs/)
+- [ ] Troubleshooting toolkit: k9s, ephemeral containers, kubectl debug — [KodeKloud · K8s Troubleshooting for App Developers](https://kodekloud.com/courses/kubernetes-troubleshooting-for-application-developers) — [Video](https://www.youtube.com/watch?v=ZwOOJqcKQ8g) — [Video 2](https://www.youtube.com/watch?v=qKb6loAEPV0) — [Docs](https://k9scli.io/)
 
 ## Deliverable
 - HPA demo + troubleshooting runbook

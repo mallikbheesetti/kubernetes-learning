@@ -5,9 +5,9 @@
 **Goal:** Build Elasticsearch + Fluent Bit.
 
 ## Topics
-- [ ] Elasticsearch architecture & sizing; index lifecycle (ILM) — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
-- [ ] Fluent Bit vs Fluentd; collection pipelines — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://docs.fluentbit.io/)
-- [ ] Deploy Elasticsearch + Fluent Bit feeding it — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Docs](https://docs.fluentbit.io/)
+- [ ] Elasticsearch architecture & sizing; index lifecycle (ILM) — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Video](https://www.youtube.com/watch?v=sAySPSyL2qE) — [Video 2](https://www.youtube.com/watch?v=TPO6WzRp6Vo) — [Docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/)
+- [ ] Fluent Bit vs Fluentd; collection pipelines — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Video](https://www.youtube.com/watch?v=KJlWV5-o8v0) — [Docs](https://docs.fluentbit.io/)
+- [ ] Deploy Elasticsearch + Fluent Bit feeding it — [KodeKloud · EFK Stack](https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring) — [Video](https://www.youtube.com/watch?v=HGTBANm0VY4) — [Docs](https://docs.fluentbit.io/)
 
 ## Deliverable
 - Elasticsearch cluster + Fluent Bit DaemonSet

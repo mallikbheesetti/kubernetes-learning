@@ -5,10 +5,10 @@
 **Goal:** Refresh and solidify HCL and the core workflow.
 
 ## Topics
-- [ ] HCL syntax; providers, resources, data sources, variables, outputs — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
-- [ ] init/plan/apply/destroy; dependency graph — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
-- [ ] Local state; terraform fmt/validate — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://developer.hashicorp.com/terraform/docs)
-- [ ] Rebuild the basic AWS example (S3 + IAM + EC2) from memory — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [ ] HCL syntax; providers, resources, data sources, variables, outputs — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=l5k1ai_GBDE) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] init/plan/apply/destroy; dependency graph — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=YcJ9IeukJL8) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Local state; terraform fmt/validate — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=LzWBPIgbrXM) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Rebuild the basic AWS example (S3 + IAM + EC2) from memory — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=SLB_c_ayRMo) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Deliverable
 - labs/terraform/vpc from scratch

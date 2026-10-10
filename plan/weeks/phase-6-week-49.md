@@ -5,9 +5,9 @@
 **Goal:** Enforce guardrails declaratively.
 
 ## Topics
-- [ ] Validate, mutate, generate policies — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Docs](https://kyverno.io/docs/)
-- [ ] Enforce guardrails: required labels, resource limits, allowed registries — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Docs](https://kyverno.io/docs/)
-- [ ] Policy reporting / exceptions — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Docs](https://kyverno.io/docs/)
+- [ ] Validate, mutate, generate policies — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Video](https://www.youtube.com/watch?v=MxGAuVsJBXE) — [Docs](https://kyverno.io/docs/)
+- [ ] Enforce guardrails: required labels, resource limits, allowed registries — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Video](https://www.youtube.com/watch?v=-Av59MYAc-0) — [Docs](https://kyverno.io/docs/)
+- [ ] Policy reporting / exceptions — [KodeKloud · Kubernetes Policies with Kyverno](https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno) — [Video](https://www.youtube.com/watch?v=joiF4JuA4yE) — [Docs](https://kyverno.io/docs/)
 
 ## Deliverable
 - Kyverno policy suite for the platform

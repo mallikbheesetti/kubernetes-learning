@@ -5,9 +5,9 @@
 **Goal:** Roles, collections, testing, and K8s modules.
 
 ## Topics
-- [ ] Roles, collections, galaxy; dynamic inventory (AWS) — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Docs](https://galaxy.ansible.com/)
-- [ ] Molecule for role testing; CI for Ansible (ansible-lint, yamllint) — [YouTube (search)](https://www.youtube.com/results?search_query=molecule%20ansible%20testing%20tutorial) — [Docs](https://ansible.readthedocs.io/projects/molecule/)
-- [ ] Ansible for K8s (kubernetes.core collection) — [YouTube (search)](https://www.youtube.com/results?search_query=ansible%20kubernetes.core%20collection) — [Docs](https://docs.ansible.com/ansible/latest/collections/kubernetes/core/index.html)
+- [ ] Roles, collections, galaxy; dynamic inventory (AWS) — [KodeKloud · Ansible Basics](https://kodekloud.com/courses/ansible-for-the-absolute-beginners-course) — [Video](https://www.youtube.com/watch?v=CfWwNk-_ssE) — [Video 2](https://www.youtube.com/watch?v=hWlc3IgnBUA) — [Docs](https://galaxy.ansible.com/)
+- [ ] Molecule for role testing; CI for Ansible (ansible-lint, yamllint) — [Video](https://www.youtube.com/watch?v=hglpWHMyFHA) — [Docs](https://ansible.readthedocs.io/projects/molecule/)
+- [ ] Ansible for K8s (kubernetes.core collection) — [Video](https://www.youtube.com/watch?v=NkeVN-E1DO4) — [Docs](https://docs.ansible.com/ansible/latest/collections/kubernetes/core/index.html)
 
 ## Deliverable
 - role + Molecule test passing

@@ -5,10 +5,10 @@
 **Goal:** Operate the platform reliably.
 
 ## Topics
-- [ ] SLOs/error budgets as platform commitments (link Phase 5) — [YouTube (search)](https://www.youtube.com/results?search_query=sre%20slo%20error%20budget) — [Docs](https://sre.google/workbook/)
-- [ ] Incident management, on-call, blameless postmortems — [YouTube (search)](https://www.youtube.com/results?search_query=sre%20incident%20management%20postmortem) — [Docs](https://sre.google/workbook/)
-- [ ] Chaos engineering (Chaos Mesh / Litmus) — [YouTube (search)](https://www.youtube.com/results?search_query=chaos%20mesh%20kubernetes%20tutorial) — [Docs](https://chaos-mesh.org/docs/)
-- [ ] Capacity, cost, and DR/failover ownership — [YouTube (search)](https://www.youtube.com/results?search_query=kubernetes%20disaster%20recovery%20failover)
+- [ ] SLOs/error budgets as platform commitments (link Phase 5) — [Video](https://www.youtube.com/watch?v=Akri1BlGp10) — [Docs](https://sre.google/workbook/)
+- [ ] Incident management, on-call, blameless postmortems — [Video](https://www.youtube.com/watch?v=qgHWzQ2zcqQ) — [Docs](https://sre.google/workbook/)
+- [ ] Chaos engineering (Chaos Mesh / Litmus) — [Video](https://www.youtube.com/watch?v=HAU_cjW1bMw) — [Docs](https://chaos-mesh.org/docs/)
+- [ ] Capacity, cost, and DR/failover ownership — [Video](https://www.youtube.com/watch?v=-KFe5t6GSyY)
 
 ## Deliverable
 - platform SLO + resiliency test runbook
