@@ -38,7 +38,7 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 > Each week page lists its topics with primary **KodeKloud** course links (YouTube search as fallback) plus that week's deliverable and exit check.
 
 ## Week 1 — Environment + Fundamentals Refresh
-- [ ] Install `kubectl`, `kind`, `k3d`, `k9s`, `helm`; set up aliases + shell completion
+- [x] Install `kubectl`, `kind`, `k3d`, `k9s`, `helm`; set up aliases + shell completion
 - [ ] Spin up a local multi-node cluster (1 control-plane + 2 workers) with kind
 - [ ] Review cluster architecture: control plane components, kubelet, kube-proxy, CNI
 - [ ] Namespaces, contexts, `kubectl config`, `--dry-run=client -o yaml` workflow
