@@ -9,19 +9,19 @@ to log onboarding; Dynatrace Managed cluster management ~2 years ago).
 <!-- PROGRESS:START -->
 ## Progress
 
-**Overall** — **1 / 322** tasks complete (**0%**)
+**Overall** — **1 / 316** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Phase | Timeline | Tasks | Progress |
 | --- | --- | --- | --- |
-| 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 1 / 33 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 3% |
-| 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 45 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 1 / 30 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 3% |
+| 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 44 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 3 — GitOps & CI/CD Depth | Weeks 15–22 | 0 / 36 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 4 — Infrastructure as Code | Weeks 23–32 | 0 / 41 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 5 — Observability Platform Ownership | Weeks 33–44 | 0 / 52 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 5 — Observability Platform Ownership | Weeks 33–44 | 0 / 51 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 6 — Kubernetes Security | Weeks 45–50 | 0 / 26 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| 7 — Platform Engineering: Owner & Leader | Months 10–12+ | 0 / 34 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| 7 — Platform Engineering: Owner & Leader | Months 10–12+ | 0 / 33 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 8 — OpenShift: Advanced Cluster Management | Weeks 51–58 | 0 / 55 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 
 _Auto-generated from checklist state. Run [`scripts/update_progress.py`](scripts/update_progress.py) (or let the `Update progress bars` GitHub Action run it) to refresh._

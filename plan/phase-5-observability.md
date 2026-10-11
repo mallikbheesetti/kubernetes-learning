@@ -16,26 +16,26 @@ golden path.
 <!-- PROGRESS:START -->
 ## Progress
 
-**Observability Platform Ownership** — **0 / 52** tasks complete (**0%**)
+**Observability Platform Ownership** — **0 / 51** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Week / Module | Tasks | Progress |
 | --- | --- | --- |
 | Week 33 — Metrics Fundamentals & Prometheus I | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 34 — Prometheus II: PromQL | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 34 — Prometheus II: PromQL & Alerts | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 35 — Grafana & Dashboards | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 36 — SLOs, Error Budgets & Instrumentation | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 37 — Logging with Loki I | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 38 — Loki II | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 38 — Logging with Loki II | 0 / 3 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 39 — EFK Stack I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 40 — EFK Stack II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 41 — Distributed Tracing & OpenTelemetry | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 42 — Splunk: Beyond Log Onboarding I | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 43 — Splunk: Beyond Log Onboarding II | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
-| Week 44 — Dynatrace Managed Revision + Project Exit | 0 / 5 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
+| Week 44 — Dynatrace Managed Revision + Project Exit | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 
-_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+_Auto-generated from the linked week pages. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
 <!-- PROGRESS:END -->
 
 ## Week Pages
@@ -51,82 +51,6 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [Week 42 — Splunk: Beyond Log Onboarding I](weeks/phase-5-week-42.md)
 - [Week 43 — Splunk: Beyond Log Onboarding II](weeks/phase-5-week-43.md)
 - [Week 44 — Dynatrace Managed Revision + Project Exit](weeks/phase-5-week-44.md)
-
-## Week 33 — Metrics Fundamentals & Prometheus I
-- [ ] Observability 3 pillars; metrics types (counter/gauge/histogram/summary)
-- [ ] Prometheus architecture: server, TSDB, retention; pull model
-- [ ] Deploy Prometheus on K8s (kube-prometheus-stack via Helm)
-- [ ] Exporters & service discovery (kubernetes_sd_configs)
-- [ ] **Deliverable:** Prometheus running, scraping your app
-- [ ] **[OpenShift]** Built-in monitoring: user-workload monitoring, Thanos, Alertmanager — see Phase 8
-
-## Week 34 — Prometheus II: PromQL
-- [ ] Selectors, ranges, functions, rates, aggregations, `histogram_quantile`
-- [ ] Recording rules & alerting rules
-- [ ] Alertmanager: routing, inhibition, silences, receivers
-- [ ] **Deliverable:** 5 alert rules + alertmanager routing
-
-## Week 35 — Grafana & Dashboards
-- [ ] Grafana data sources, variables, transformations
-- [ ] Build dashboards (USE/RED methods) for the umbrella app + cluster
-- [ ] Provisioning as code (dashboards + datasources in Git)
-- [ ] **Deliverable:** dashboards committed as JSON/provisioning
-
-## Week 36 — SLOs, Error Budgets & Instrumentation
-- [ ] SLI/SLO/error budget design; burn-rate alerts
-- [ ] Instrument an app (client library or OTel); expose `/metrics`
-- [ ] Golden signals (latency, traffic, errors, saturation)
-- [ ] **Deliverable:** documented SLOs + burn-rate alert for the app
-
-## Week 37 — Logging with Loki I
-- [ ] Loki architecture (distributor/ingester/querier); labels vs content
-- [ ] Deploy Loki + Alloy/Promtail on K8s
-- [ ] LogQL basics and log pipelines
-- [ ] **Deliverable:** cluster + app logs queryable in Grafana
-- [ ] **[OpenShift]** OpenShift Logging (LokiStack/Vector) vs legacy ClusterLogging — see Phase 8
-
-## Week 38 — Loki II
-- [ ] Retention, multi-tenancy, object storage backend
-- [ ] Metrics-from-logs; correlating logs with traces
-- [ ] **Deliverable:** log-based alert + retention policy
-
-## Week 39 — EFK Stack I
-- [ ] Elasticsearch architecture & sizing; index lifecycle (ILM)
-- [ ] Fluent Bit vs Fluentd; collection pipelines
-- [ ] Deploy Elasticsearch + Fluent Bit feeding it
-- [ ] **Deliverable:** Elasticsearch cluster + Fluent Bit DaemonSet
-
-## Week 40 — EFK Stack II
-- [ ] Kibana: index patterns, dashboards, saved searches
-- [ ] Scaling, monitoring, and securing the EFK stack
-- [ ] Compare EFK vs Loki (cost, ops, use cases) — write-up
-- [ ] **Deliverable:** Kibana dashboards + comparison notes
-
-## Week 41 — Distributed Tracing & OpenTelemetry
-- [ ] Tracing concepts: spans, context propagation, sampling
-- [ ] OTel Collector (receivers/processors/exporters); OTLP
-- [ ] Export traces to Tempo/Jaeger; correlate with logs/metrics
-- [ ] **Deliverable:** end-to-end trace for the app in Tempo/Jaeger
-- [ ] **[OpenShift]** Distributed Tracing (Tempo/Jaeger) via OpenTelemetry on OCP — see Phase 8
-
-## Week 42 — Splunk: Beyond Log Onboarding I
-- [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders
-- [ ] Indexer clustering & search head clustering concepts
-- [ ] Data lifecycle: hot/warm/cold/frozen, retention
-- [ ] **Deliverable:** diagrams + notes building a Splunk cluster (map to your work)
-
-## Week 43 — Splunk: Beyond Log Onboarding II
-- [ ] Sizing, replication factors, licensing
-- [ ] Config management at scale (deployment apps, cluster manager)
-- [ ] Relate to your self-service onboarding platform: what a true platform owner controls
-- [ ] **Deliverable:** a "Splunk platform ownership" checklist for your role
-
-## Week 44 — Dynatrace Managed Revision + Project Exit
-- [ ] Dynatrace Managed architecture: cluster nodes, ActiveGate, oneagent
-- [ ] HA setup, upgrades, backups, DR (revise what you did 2 yrs ago)
-- [ ] Metrics/entities/tags/dashboards; alerting profiles
-- [ ] **Deliverable:** Dynatrace revision notes + open-source platform complete
-- [ ] Package `projects/observability-platform/` with README + onboarding golden path
 
 ---
 

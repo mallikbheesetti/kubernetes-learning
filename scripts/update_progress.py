@@ -2,14 +2,16 @@
 """Compute red/green progress bars from checklist state and inject them.
 
 Progress model:
-  * Each week (phases 1-6) or track/capstone (phase 7) is a unit.
-  * A unit's weight = number of `- [ ]` tasks in that section.
+  * Each week / module / capstone page under `plan/weeks/` is a unit and the
+    single source of truth; tick its checkboxes as you go.
+  * A unit's weight = number of `- [ ]` tasks on that week page.
   * A phase's progress = completed tasks / total tasks across its units.
   * Overall progress = completed tasks across all phases.
 
 Renders into:
   * learning-plan.md  -> one bar per phase + overall
   * plan/phase-*.md    -> one bar per week/module + phase summary
+                         (the duplicated per-week checkbox lists are stripped)
 
 Bars use green squares (done) and red squares (remaining). Idempotent:
 content is rewritten between `<!-- PROGRESS:START -->` / `<!-- PROGRESS:END -->`
@@ -40,7 +42,10 @@ PHASE_META = {
 }
 
 CHECK_RE = re.compile(r"^\s*- \[([ xX])\]")
-UNIT_RE = re.compile(r"^##\s+(Week\s+\d+\b.*|Track\s+[A-E]\b.*|Capstone\b.*)$")
+PAGES_HEAD_RE = re.compile(r"^##\s+\w+\s+Pages\s*$")
+LINK_RE = re.compile(r"^-\s+\[(.+?)\]\((weeks/[^)]+)\)")
+UNIT_HEAD_RE = re.compile(r"^##\s+(?:Week\s+\d+|Track\s+[A-E]|Capstone)\b.*$", re.M)
+EXIT_HEAD_RE = re.compile(r"^##\s+Exit Criteria\b.*$", re.M)
 
 
 def pct(done, total):
@@ -63,27 +68,50 @@ def count_tasks(text):
     return done, total
 
 
-def parse_units(text):
-    """Return [(label, done, total)] for each week/track/capstone section."""
-    units, label, buf = [], None, []
-
-    def flush():
-        if label is not None:
-            done, total = count_tasks("\n".join(buf))
-            units.append((label, done, total))
-
+def unit_links(text):
+    """Ordered (label, relpath) week/module page links from the '* Pages' section."""
+    in_pages, links = False, []
     for line in text.splitlines():
-        m = re.match(r"^##\s+(.+?)\s*$", line)
-        if m:
-            flush()
-            heading = m.group(1)
-            label = heading if UNIT_RE.match(line) else None
-            buf = []
+        if PAGES_HEAD_RE.match(line):
+            in_pages = True
             continue
-        if label is not None:
-            buf.append(line)
-    flush()
+        if in_pages:
+            m = LINK_RE.match(line)
+            if m:
+                links.append((m.group(1), m.group(2)))
+            elif line.startswith("## "):
+                break
+    return links
+
+
+def parse_units(text):
+    """Return [(label, done, total)] from the linked week/module pages."""
+    units = []
+    for label, rel in unit_links(text):
+        path = os.path.join(PLAN, rel)
+        if not os.path.exists(path):
+            continue
+        with open(path) as f:
+            done, total = count_tasks(f.read())
+        units.append((label, done, total))
     return units
+
+
+def strip_checklists(text):
+    """Drop the duplicated per-week/module checkbox lists from a phase file.
+
+    The `* Pages` links above and the week pages themselves remain the only
+    checklists. Idempotent: returns the input unchanged once already stripped.
+    """
+    exit_m = EXIT_HEAD_RE.search(text)
+    if not exit_m:
+        return text
+    head = text[:exit_m.start()]
+    unit_m = UNIT_HEAD_RE.search(head)
+    if not unit_m:
+        return text
+    head = head[:unit_m.start()].rstrip("\n")
+    return f"{head}\n\n---\n\n{text[exit_m.start():]}"
 
 
 def phase_file(phase):
@@ -105,8 +133,8 @@ def phase_block(phase, units):
         up = pct(c, t)
         out.append(f"| {label} | {c} / {t} | {bar(up)} {up}% |")
     out += ["",
-            "_Auto-generated from ticked checkboxes \u2014 see the phase checklists "
-            "below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._"]
+            "_Auto-generated from the linked week pages. Updated by "
+            "[`scripts/update_progress.py`](../scripts/update_progress.py)._"]
     return "\n".join(out)
 
 
@@ -168,6 +196,7 @@ def main():
             "done": sum(u[1] for u in units),
             "total": sum(u[2] for u in units),
         }
+        text = strip_checklists(text)
         new_text = inject_after_hr(text, phase_block(phase, units))
         if new_text != text:
             with open(path, "w") as f:

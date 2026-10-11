@@ -27,7 +27,7 @@ policies, RBAC, Pod Security, network policies, and Vault-backed secrets.
 | Week 49 — Policy-as-Code with Kyverno | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 50 — Project Integration & Exit | 0 / 4 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 
-_Auto-generated from ticked checkboxes — see the phase checklists below. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
+_Auto-generated from the linked week pages. Updated by [`scripts/update_progress.py`](../scripts/update_progress.py)._
 <!-- PROGRESS:END -->
 
 ## Week Pages
@@ -37,44 +37,6 @@ _Auto-generated from ticked checkboxes — see the phase checklists below. Updat
 - [Week 48 — Runtime Security & Monitoring](weeks/phase-6-week-48.md)
 - [Week 49 — Policy-as-Code with Kyverno](weeks/phase-6-week-49.md)
 - [Week 50 — Project Integration & Exit](weeks/phase-6-week-50.md)
-
-## Week 45 — Authentication, Authorization & RBAC
-- [ ] AuthN: users/groups, service accounts, OIDC concepts, certificates
-- [ ] AuthZ: RBAC (roles/bindings), ABAC, node/webhook
-- [ ] Kubeconfig merging; `kubectl auth can-i`; impersonation
-- [ ] **Deliverable:** least-privilege RBAC for the umbrella app + platform
-
-## Week 46 — Cluster Hardening & Pod Security
-- [ ] API server/etcd/kubelet hardening flags; CIS benchmark scan (kube-bench)
-- [ ] Pod Security Admission (baseline/restricted); securityContext
-- [ ] seccomp, AppArmor/SELinux, capability dropping, read-only FS
-- [ ] **Deliverable:** restricted-namespace enforcement demonstration
-- [ ] **[OpenShift]** Security Context Constraints (SCC) & default service accounts — see Phase 8
-
-## Week 47 — Network Security & Supply Chain
-- [ ] NetworkPolicies: default-deny + allow (ingress/egress)
-- [ ] Service mesh mTLS concepts (preview Istio); Cilium network policy
-- [ ] Supply chain: image scanning (Trivy), SBOM, signing (cosign), admission verify
-- [ ] **Deliverable:** signed image + admission verification policy
-
-## Week 48 — Runtime Security & Monitoring
-- [ ] Threat model; runtime detection (Falco) concepts + deploy
-- [ ] Audit logging (API server audit policy)
-- [ ] Secrets: encryption at rest; external secrets; Vault integration
-- [ ] **Deliverable:** Falco rules + audit policy + Vault secrets injection
-- [ ] **[OpenShift]** OpenShift OAuth/identity providers, Compliance Operator, RHACS — see Phase 8
-
-## Week 49 — Policy-as-Code with Kyverno
-- [ ] Validate, mutate, generate policies
-- [ ] Enforce guardrails: required labels, resource limits, allowed registries
-- [ ] Policy reporting / exceptions
-- [ ] **Deliverable:** Kyverno policy suite for the platform
-
-## Week 50 — Project Integration & Exit
-- [ ] Combine: hardened baseline + RBAC + PSS + NetworkPolicies + Kyverno + Vault
-- [ ] Run a kube-bench scan and remediate top findings
-- [ ] Document the security baseline as a platform standard
-- [ ] **Deliverable:** `projects/hardened-cluster/` + security standard doc
 
 ---
 
