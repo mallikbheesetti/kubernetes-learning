@@ -11,6 +11,8 @@ golden path.
 **Resources:** KodeKloud *Prometheus Certified Associate (PCA)*, *Grafana Loki*,
 *Grafana & Prometheus*, *EFK Stack*, plus Splunk and Dynatrace Managed docs.
 
+**Pluralsight:** [Pluralsight · Getting Started with Prometheus](https://www.pluralsight.com/courses/getting-started-prometheus) · [Pluralsight · Building Dashboards from Prometheus Data in Grafana](https://www.pluralsight.com/courses/prometheus-grafana-building-dashboards-data) · [Pluralsight · Observability with OpenTelemetry and Grafana](https://www.pluralsight.com/courses/opentelemetry-grafana-observability) · [Pluralsight · Centralized Logging with the Elastic Stack](https://www.pluralsight.com/courses/centralized-logging-elastic-stack) · [Pluralsight · Installing and Configuring Splunk](https://www.pluralsight.com/courses/installing-configuring-splunk) · [Pluralsight · Dynatrace Fundamentals](https://www.pluralsight.com/courses/dynatrace-fundamentals) · [Pluralsight · Implementing the Kubernetes Observability Stack](https://www.pluralsight.com/courses/implementing-k8s-observability-stack)
+
 ---
 
 <!-- PROGRESS:START -->

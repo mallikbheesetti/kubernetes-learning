@@ -5,9 +5,9 @@
 **Goal:** Author reusable modules.
 
 ## Topics
-- [ ] Module structure; inputs/outputs; versioning; registry — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=eAipIkbVSco) — [Docs](https://developer.hashicorp.com/terraform/language/modules)
-- [ ] Composition; count vs for_each — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=6LbXPPEeKXg) — [Docs](https://developer.hashicorp.com/terraform/docs)
-- [ ] Build a vpc module — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=T8iTN1UGVTE) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [ ] Module structure; inputs/outputs; versioning; registry — [Pluralsight · Terraform: Modules](https://www.pluralsight.com/courses/terraform-modules) — [Pluralsight Lab · Develop and Reuse Terraform Modules](https://www.pluralsight.com/labs/aws/develop-and-reuse-terraform-modules) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=eAipIkbVSco) — [Docs](https://developer.hashicorp.com/terraform/language/modules)
+- [ ] Composition; count vs for_each — [Pluralsight · Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started-2023) — [Pluralsight Lab · Infrastructure on AWS with Terraform](https://www.pluralsight.com/labs/aws/build-and-manage-infrastructure-on-aws-with-terraform) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=6LbXPPEeKXg) — [Docs](https://developer.hashicorp.com/terraform/docs)
+- [ ] Build a vpc module — [Pluralsight · Terraform: Modules](https://www.pluralsight.com/courses/terraform-modules) — [Pluralsight Lab · Develop and Reuse Terraform Modules](https://www.pluralsight.com/labs/aws/develop-and-reuse-terraform-modules) — [KodeKloud · Terraform Basics](https://kodekloud.com/courses/terraform-basics-training-course) — [Video](https://www.youtube.com/watch?v=T8iTN1UGVTE) — [Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ## Deliverable
 - modules/vpc/

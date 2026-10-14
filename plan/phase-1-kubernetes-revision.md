@@ -8,6 +8,8 @@ before going deep. Treat this as a *refresh*, not first-time learning.
 **Resources:** KodeKloud *Kubernetes for the Absolute Beginners*, CKA course labs,
 `kubectl` docs, Killer Coda / killercoda playgrounds.
 
+**Pluralsight:** [Pluralsight · Getting Started with Kubernetes](https://www.pluralsight.com/courses/kubernetes-getting-started-2023) · [Pluralsight · CKA: Kubernetes Foundations](https://www.pluralsight.com/courses/cka-kubernetes-foundations) · [Pluralsight · Welcome to Kubectl for Kubernetes](https://www.pluralsight.com/courses/kubernetes-welcome-to-kubectl)
+
 ---
 
 <!-- PROGRESS:START -->

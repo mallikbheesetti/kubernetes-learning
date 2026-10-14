@@ -10,6 +10,8 @@ apps to the cluster (app-of-apps), with a CI pipeline that builds an image.
 CI/CD learning path, GitHub Actions docs, Argo Rollouts docs,
 Spinnaker docs (deepen only if used at work).
 
+**Pluralsight:** [Pluralsight · GitOps: The Big Picture](https://www.pluralsight.com/courses/gitops-the-big-picture) · [Pluralsight · Getting Started with Argo CD](https://www.pluralsight.com/courses/argo-cd-getting-started) · [Pluralsight · Authoring and Maintaining GitHub Actions Workflows](https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows) · [Pluralsight · Jenkins Pipelines](https://www.pluralsight.com/courses/jenkins-pipelines) · [Pluralsight · Implementing GitOps for Kubernetes Applications](https://www.pluralsight.com/courses/implementing-gitops-kubernetes-apps)
+
 ---
 
 <!-- PROGRESS:START -->

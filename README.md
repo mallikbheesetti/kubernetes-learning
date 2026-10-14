@@ -18,6 +18,7 @@ platform engineering, and AI/ML on Kubernetes).
   - [Phase 8 — OpenShift: advanced cluster management](plan/phase-8-openshift-acm.md) (weeks 51–58)
 - [`plan/weeks/`](plan/weeks/00-index.md) — one page per week with per-topic course links + exit checks
 - [`resources/kodekloud-courses.md`](resources/kodekloud-courses.md) — curated KodeKloud course catalog
+- [`resources/pluralsight-courses.md`](resources/pluralsight-courses.md) — curated Pluralsight course + hands-on lab catalog
 
 ## Progress
 
@@ -36,3 +37,11 @@ technology it covers (alongside the KodeKloud/YouTube video link). The mapping
 after editing week pages to keep links consistent (`python3 scripts/add_docs_links.py`).
 Items without a specific tool — exams, leadership topics, deliverables — are left
 intentionally unlinked.
+
+## Pluralsight links
+
+Week-page topics also link to the most relevant Pluralsight course (and, where one
+exists, a hands-on lab). The mapping (`scripts/pluralsight-links.json`) is applied
+by `scripts/add_pluralsight_links.py`; re-run it after editing the mapping
+(`python3 scripts/add_pluralsight_links.py`). The resulting course/lab set is
+catalogued in [`resources/pluralsight-courses.md`](resources/pluralsight-courses.md).

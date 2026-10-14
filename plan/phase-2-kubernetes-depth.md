@@ -10,6 +10,8 @@ via a Helm umbrella chart with Kustomize overlays for dev/staging/prod.
 *Kustomize*, *Kubernetes Operators*, *Kubernetes Autoscaling*,
 *Kubernetes Troubleshooting for Application Developers*.
 
+**Pluralsight:** [Pluralsight · Kubernetes Networking, Services, and Ingress](https://www.pluralsight.com/courses/configuring-managing-kubernetes-networking-services-ingress) · [Pluralsight · Packaging Applications with Helm](https://www.pluralsight.com/courses/kubernetes-packaging-applications-helm) · [Pluralsight · Getting Started with Kustomize](https://www.pluralsight.com/courses/kustomize-getting-started) · [Pluralsight · Developing Kubernetes Operators](https://www.pluralsight.com/courses/developing-kubernetes-operators-from-the-ground-up) · [Pluralsight · Horizontal Pod Autoscaling](https://www.pluralsight.com/courses/kubernetes-horizontal-pod-autoscaling) · [Pluralsight · Hands-On Kubernetes Troubleshooting](https://www.pluralsight.com/courses/hands-on-kubernetes-troubleshooting)
+
 ---
 
 <!-- PROGRESS:START -->

@@ -5,8 +5,8 @@
 **Goal:** Operate Loki for production.
 
 ## Topics
-- [ ] Retention, multi-tenancy, object storage backend — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki) — [Video](https://www.youtube.com/watch?v=Ep1_zha9ylU) — [Docs](https://grafana.com/docs/loki/latest/)
-- [ ] Metrics-from-logs; correlating logs with traces — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki) — [Video](https://www.youtube.com/watch?v=tKcnQ0Q2E-k) — [Docs](https://grafana.com/docs/loki/latest/)
+- [ ] Retention, multi-tenancy, object storage backend — [Pluralsight · Implementing the Kubernetes Observability Stack](https://www.pluralsight.com/courses/implementing-k8s-observability-stack) — [Pluralsight Lab · Kubernetes Metrics and Logging Stack](https://www.pluralsight.com/labs/aws/kubernetes-metrics-and-logging-stack-installation) — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki) — [Video](https://www.youtube.com/watch?v=Ep1_zha9ylU) — [Docs](https://grafana.com/docs/loki/latest/)
+- [ ] Metrics-from-logs; correlating logs with traces — [Pluralsight · Implementing the Kubernetes Observability Stack](https://www.pluralsight.com/courses/implementing-k8s-observability-stack) — [Pluralsight Lab · Kubernetes Metrics and Logging Stack](https://www.pluralsight.com/labs/aws/kubernetes-metrics-and-logging-stack-installation) — [KodeKloud · Grafana Loki](https://kodekloud.com/courses/grafana-loki) — [Video](https://www.youtube.com/watch?v=tKcnQ0Q2E-k) — [Docs](https://grafana.com/docs/loki/latest/)
 
 ## Deliverable
 - log-based alert + retention policy

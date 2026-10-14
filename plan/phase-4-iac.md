@@ -10,6 +10,8 @@ used before and needs revision + tests to prove retention.
 **Resources:** KodeKloud *Terraform Basics*, *Terraform On Azure*, *Ansible Basics*,
 *Ansible Advanced*, HashiCorp learning path; Terraform & Molecule docs.
 
+**Pluralsight:** [Pluralsight · Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started-2023) · [Pluralsight · Terraform: Modules](https://www.pluralsight.com/courses/terraform-modules) · [Pluralsight · Terraform Deep Dive](https://www.pluralsight.com/courses/terraform-deep-dive-2023) · [Pluralsight · Getting Started with Ansible](https://www.pluralsight.com/courses/getting-started-ansible) · [Pluralsight · Ansible Playbooks, Variables, and Handlers](https://www.pluralsight.com/courses/ansible-playbooks-variables-handlers) · [Pluralsight · Getting Started with HashiCorp Vault](https://www.pluralsight.com/courses/getting-started-hashicorp-vault)
+
 ---
 
 <!-- PROGRESS:START -->

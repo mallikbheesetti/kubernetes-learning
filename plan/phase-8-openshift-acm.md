@@ -6,6 +6,8 @@
 
 **Resources:** KodeKloud *OpenShift 4*; Red Hat *DO280* (OCP Admin II), *DO380* (OCP Admin III: Scaling Deployments), *DO432* (Multicluster Management with RHACM); OpenShift and RHACM documentation. Optional checkpoint: *EX432* (OpenShift Advanced Cluster Management).
 
+**Pluralsight:** [Pluralsight · OpenShift Fundamentals and Workload Deployment](https://www.pluralsight.com/courses/openshift-fundamentals-workload-deployment) · [Pluralsight · Implementing Networking in OpenShift](https://www.pluralsight.com/courses/openshift-implementing-networking) · [Pluralsight · Securing an OpenShift Cluster](https://www.pluralsight.com/courses/openshift-cluster-securing) · [Pluralsight · Red Hat OpenShift Administration (EX280)](https://www.pluralsight.com/courses/rhcs-openshift-administration-managing-openshift-platform-cert)
+
 ---
 
 <!-- PROGRESS:START -->

@@ -5,9 +5,9 @@
 **Goal:** Understand Splunk cluster architecture.
 
 ## Topics
-- [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders — [Video](https://www.youtube.com/watch?v=rvjW5LJ0vbU) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
-- [ ] Indexer clustering & search head clustering concepts — [Video](https://www.youtube.com/watch?v=ZiNCRsUE7LQ) — [Video 2](https://www.youtube.com/watch?v=VPa3EjqD8Q4) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
-- [ ] Data lifecycle: hot/warm/cold/frozen, retention — [Video](https://www.youtube.com/watch?v=El87Pyl-buY) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Splunk architecture: indexers, search heads, deployment servers, heavy forwarders — [Pluralsight · Splunk 9: Configuring and Administering Indexer Clusters](https://www.pluralsight.com/courses/splunk-9-configuring-administering-splunk-indexer-clusters) — [Pluralsight Lab · Installing Splunk Enterprise](https://www.pluralsight.com/labs/aws/installing-splunk-enterprise) — [Video](https://www.youtube.com/watch?v=rvjW5LJ0vbU) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Indexer clustering & search head clustering concepts — [Pluralsight · Splunk 9: Configuring and Administering Indexer Clusters](https://www.pluralsight.com/courses/splunk-9-configuring-administering-splunk-indexer-clusters) — [Pluralsight Lab · Installing Splunk Enterprise](https://www.pluralsight.com/labs/aws/installing-splunk-enterprise) — [Video](https://www.youtube.com/watch?v=ZiNCRsUE7LQ) — [Video 2](https://www.youtube.com/watch?v=VPa3EjqD8Q4) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
+- [ ] Data lifecycle: hot/warm/cold/frozen, retention — [Pluralsight · Splunk 9: Configuring and Administering Indexer Clusters](https://www.pluralsight.com/courses/splunk-9-configuring-administering-splunk-indexer-clusters) — [Pluralsight Lab · Installing Splunk Enterprise](https://www.pluralsight.com/labs/aws/installing-splunk-enterprise) — [Video](https://www.youtube.com/watch?v=El87Pyl-buY) — [Docs](https://docs.splunk.com/Documentation/Splunk/latest/)
 
 ## Deliverable
 - diagrams + notes building a Splunk cluster

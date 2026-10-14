@@ -9,6 +9,8 @@ policies, RBAC, Pod Security, network policies, and Vault-backed secrets.
 **Resources:** KodeKloud *Certified Kubernetes Security Specialist (CKS)*,
 *KCSA*, *Kyverno*, HashiCorp Vault; CIS Benchmark, NSA/CISA K8s hardening guide.
 
+**Pluralsight:** [Pluralsight · Kubernetes System Hardening](https://www.pluralsight.com/courses/kubernetes-system-hardening) · [Pluralsight · Configuring and Managing Kubernetes Security](https://www.pluralsight.com/courses/configuring-managing-kubernetes-security-2) · [Pluralsight · Container Infrastructure Analysis with Trivy](https://www.pluralsight.com/courses/container-infrastructure-analysis-trivy) · [Pluralsight · Supply Chain Security for CKS](https://www.pluralsight.com/courses/supply-chain-security-cks-cert) · [Pluralsight · Monitoring, Logging and Runtime Security for CKS](https://www.pluralsight.com/courses/monitoring-logging-runtime-security-cks-cert)
+
 ---
 
 <!-- PROGRESS:START -->

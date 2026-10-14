@@ -8,6 +8,8 @@ it's continuous and partly non-technical.
 - `projects/platform-reference/` — "platform-in-a-box" reference architecture.
 - `docs/platform-charter.md` — vision, operating model, team topology, roadmap format.
 
+**Pluralsight:** [Pluralsight · Platform Engineering: The Big Picture](https://www.pluralsight.com/courses/platform-engineering-big-picture) · [Pluralsight · Site Reliability Engineering (SRE): The Big Picture](https://www.pluralsight.com/courses/site-reliability-engineering-big-picture) · [Pluralsight · Measuring Reliability: SLIs, SLOs, and SLAs](https://www.pluralsight.com/courses/measuring-reliability-slis-slos-slas) · [Pluralsight · High-Stakes Incident Response and Retrospectives](https://www.pluralsight.com/courses/high-stakes-incident-response-retro) · [Pluralsight · Cloud Costs Management and Controls](https://www.pluralsight.com/courses/cloud-costs-management-controls) · [Pluralsight · Leveraging Data & DORA Metrics](https://www.pluralsight.com/courses/leveraging-data-dora-metrics-transform-software-delivery-process)
+
 ---
 
 <!-- PROGRESS:START -->
