@@ -15,13 +15,13 @@ before going deep. Treat this as a *refresh*, not first-time learning.
 <!-- PROGRESS:START -->
 ## Progress
 
-**Kubernetes Revision & Re-Fluency** — **1 / 30** tasks complete (**3%**)
+**Kubernetes Revision & Re-Fluency** — **0 / 30** tasks complete (**0%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Week / Module | Tasks | Progress |
 | --- | --- | --- |
-| Week 1 — Environment + Fundamentals Refresh | 1 / 6 | 🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥 17% |
+| Week 1 — Environment + Fundamentals Refresh | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 2 — Workloads & Controllers | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 3 — Networking, Services & Config | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | Week 4 — Scheduling, Storage & Troubleshooting | 0 / 6 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
