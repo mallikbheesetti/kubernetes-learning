@@ -9,13 +9,13 @@ to log onboarding; Dynatrace Managed cluster management ~2 years ago).
 <!-- PROGRESS:START -->
 ## Progress
 
-**Overall** — **1 / 316** tasks complete (**0%**)
+**Overall** — **2 / 316** tasks complete (**1%**)
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 | Phase | Timeline | Tasks | Progress |
 | --- | --- | --- | --- |
-| 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 1 / 30 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 3% |
+| 1 — Kubernetes Revision & Re-Fluency | Weeks 1–5 | 2 / 30 | 🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥 7% |
 | 2 — Kubernetes Depth & Application Delivery | Weeks 6–14 | 0 / 44 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 3 — GitOps & CI/CD Depth | Weeks 15–22 | 0 / 36 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
 | 4 — Infrastructure as Code | Weeks 23–32 | 0 / 41 | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 0% |
